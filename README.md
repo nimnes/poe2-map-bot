@@ -32,6 +32,8 @@ Create a bot token with Telegram's BotFather, then run:
 python -m poe2_map_bot.bot
 ```
 
+For hosting and Telegram registration, see [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ## Refreshing Map Names
 
 The bot works from `data/maps.json`. To merge in map names from the wiki:

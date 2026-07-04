@@ -1,0 +1,12 @@
+services:
+  - type: worker
+    name: poe2-map-bot
+    runtime: docker
+    plan: starter
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: MAP_DATA_PATH
+        value: /app/data/maps.json
+      - key: LOG_LEVEL
+        value: INFO
