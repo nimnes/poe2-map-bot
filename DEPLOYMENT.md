@@ -6,6 +6,8 @@ This bot uses Telegram long polling, so it does not need a public web URL or web
 
 Render is a straightforward fit because its background workers are continuous services that do not receive incoming traffic. The included `Dockerfile` and `render.yaml` are enough for a worker deployment.
 
+The blueprint is set to request Render's `free` instance type. If Render's dashboard does not offer Free for a Background Worker in your workspace, use the cheapest paid worker or deploy the Docker container on an Always Free VM instead. Do not use a sleeping free web service for this bot unless you are comfortable with the bot going offline while it is idle.
+
 ### 1. Create the Telegram Bot
 
 1. Open Telegram and search for `@BotFather`.
@@ -63,6 +65,8 @@ LOG_LEVEL=INFO
 
 ## Other Good Hosting Choices
 
+- Oracle Cloud Always Free VM: best truly-free always-on option, but more manual setup.
+- Google Cloud free-tier VM: another always-free VM route if your region/account qualifies.
 - Fly.io: good if you like Docker and CLI-driven deploys.
 - Railway: simple app hosting with environment variables.
 - A small VPS: cheapest long-term if you are comfortable running Docker yourself.
