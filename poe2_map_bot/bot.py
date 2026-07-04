@@ -108,7 +108,21 @@ def build_application() -> Application:
 
 def main() -> None:
     app = build_application()
-    LOGGER.info("Starting PoE 2 map bot")
+    webhook_url = os.getenv("TELEGRAM_WEBHOOK_URL")
+    if webhook_url:
+        port = int(os.getenv("PORT", "8080"))
+        webhook_path = os.getenv("TELEGRAM_WEBHOOK_PATH", "telegram")
+        LOGGER.info("Starting PoE 2 map bot with webhook on port %s", port)
+        app.run_webhook(
+            listen="0.0.0.0",
+            port=port,
+            url_path=webhook_path,
+            webhook_url=f"{webhook_url.rstrip('/')}/{webhook_path}",
+            allowed_updates=Update.ALL_TYPES,
+        )
+        return
+
+    LOGGER.info("Starting PoE 2 map bot with polling")
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
 

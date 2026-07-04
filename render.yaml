@@ -1,11 +1,15 @@
 services:
-  - type: worker
+  - type: web
     name: poe2-map-bot
     runtime: docker
     plan: free
     envVars:
       - key: TELEGRAM_BOT_TOKEN
         sync: false
+      - key: TELEGRAM_WEBHOOK_URL
+        sync: false
+      - key: TELEGRAM_WEBHOOK_PATH
+        generateValue: true
       - key: MAP_DATA_PATH
         value: /app/data/maps.json
       - key: LOG_LEVEL

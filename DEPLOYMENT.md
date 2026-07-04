@@ -1,14 +1,13 @@
 # Deployment
 
-This bot uses Telegram long polling, so it does not need a public web URL or webhook. It only needs an always-on process with outbound internet access.
+The bot supports two runtime modes:
 
-## Recommended Host: Render Background Worker
+- Polling: best for an always-on worker or VM.
+- Webhook: best for Render Free Web Service.
 
-Render is a straightforward fit because its background workers are continuous services that do not receive incoming traffic. The included `Dockerfile` and `render.yaml` are enough for a worker deployment.
+Because Render says Background Workers are not available on your plan, use the webhook path below.
 
-The blueprint is set to request Render's `free` instance type. If Render's dashboard does not offer Free for a Background Worker in your workspace, use the cheapest paid worker or deploy the Docker container on an Always Free VM instead. Do not use a sleeping free web service for this bot unless you are comfortable with the bot going offline while it is idle.
-
-### 1. Create the Telegram Bot
+## 1. Create the Telegram Bot
 
 1. Open Telegram and search for `@BotFather`.
 2. Send `/newbot`.
@@ -33,49 +32,60 @@ maps - List known maps
 reload - Reload map data
 ```
 
-### 2. Push the Repository
+## 2. Deploy Free On Render
 
-Push this repository to GitHub first. The configured remote is:
+Use a Render Web Service, not a Background Worker.
 
-```bash
-git@github.com:nimnes/poe2-map-bot.git
-```
-
-If SSH is not loaded yet:
-
-```bash
-ssh-add ~/.ssh/id_ed25519
-git push -u origin main
-```
-
-### 3. Deploy on Render
-
-1. Go to Render and create a new Blueprint from the GitHub repository, or create a new Background Worker manually.
-2. If creating manually, choose Docker and point it at this repository.
-3. Add environment variables:
+1. Push this repository to GitHub.
+2. In Render, choose New > Blueprint or New > Web Service.
+3. Select the GitHub repository.
+4. Use Docker.
+5. Set the service name to `poe2-map-bot`.
+6. Choose the Free instance type.
+7. Add environment variables:
 
 ```text
 TELEGRAM_BOT_TOKEN=<token from BotFather>
+TELEGRAM_WEBHOOK_URL=https://poe2-map-bot.onrender.com
 MAP_DATA_PATH=/app/data/maps.json
 LOG_LEVEL=INFO
 ```
 
-4. Deploy the worker.
-5. Open the bot in Telegram and send `/start`, then try `/map Augury`.
+If Render gives your service a different URL, use that exact URL for `TELEGRAM_WEBHOOK_URL`.
 
-## Other Good Hosting Choices
+`TELEGRAM_WEBHOOK_PATH` is a secret path used by Telegram to reach the bot. The included `render.yaml` asks Render to generate it. If you create the Web Service manually, set it to any random string, for example:
 
-- Oracle Cloud Always Free VM: best truly-free always-on option, but more manual setup.
-- Google Cloud free-tier VM: another always-free VM route if your region/account qualifies.
-- Fly.io: good if you like Docker and CLI-driven deploys.
-- Railway: simple app hosting with environment variables.
-- A small VPS: cheapest long-term if you are comfortable running Docker yourself.
+```text
+TELEGRAM_WEBHOOK_PATH=telegram-a-long-random-secret
+```
 
-For this bot, avoid static hosts and serverless functions unless you convert it to Telegram webhooks. Long polling needs a process that stays running.
+8. Deploy the service.
+9. Watch the logs. You want to see:
+
+```text
+Starting PoE 2 map bot with webhook
+```
+
+10. Open the bot in Telegram and send `/start`, then `/map Augury`.
+
+## Important Free-Tier Caveat
+
+Render Free Web Services spin down after idle periods. A Telegram message should wake the service, but the first message after sleep can be delayed while Render starts the container. If the first message times out, send it again after about a minute.
+
+For a bot that must respond instantly 24/7, use an always-on host instead:
+
+- Oracle Cloud Always Free VM
+- Google Cloud free-tier VM, if eligible
+- A small paid VPS
+- A paid Render Background Worker
 
 ## Local Smoke Test
+
+Polling mode:
 
 ```bash
 docker build -t poe2-map-bot .
 docker run --rm --env-file .env poe2-map-bot
 ```
+
+Webhook mode locally needs a public tunnel URL, so polling is simpler for local testing.
