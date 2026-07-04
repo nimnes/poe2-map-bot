@@ -1,0 +1,2876 @@
+{
+  "source": "https://pathofexile2.wiki.fextralife.com/Maps",
+  "generated_from": "Fextralife Maps table fetched 2026-07-04; HC notes are derived from listed biome, boss, tileset, and notes.",
+  "maps": [
+    {
+      "name": "Alpine Ridge",
+      "aliases": [
+        "Alpine Ridge map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "Gelida, the Frost-Tongue & Ignatia, the Flame-Sworn",
+      "notes": "This is a Tower map. Completing it reveals a portion of the Atlas and allows you to use Tablets to empower nearby maps.",
+      "summary": "A Mountain biome tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Gelida, the Frost-Tongue & Ignatia, the Flame-Sworn.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Ancient Gateway",
+      "aliases": [
+        "Ancient Gateway map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Augury",
+      "aliases": [
+        "Augury map"
+      ],
+      "biome": "Grass, Forest, Swamp",
+      "base_tileset": "Jiquani's Machinarium",
+      "boss": "Gressor-Kul, the Apex",
+      "notes": "Features three Stone Altars that must be activated to reach the central area. The boss only appears if the map has two or more rare affixes or a specific boss modifier.",
+      "summary": "A Grass, Forest, Swamp biome, based on Jiquani's Machinarium map. Features three Stone Altars that must be activated to reach the central area. The boss only appears if the map has two or more rare affixes or a specific boss modifier.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Gressor-Kul, the Apex.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Azmerian Ranges",
+      "aliases": [
+        "Azmerian Ranges map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "The King in the Mists & The Brambleghast",
+      "notes": "This area is teeming with multiple Azmerian wisps, guiding players through the treacherous terrain.",
+      "summary": "A Mountain biome map. This area is teeming with multiple Azmerian wisps, guiding players through the treacherous terrain.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: The King in the Mists & The Brambleghast.",
+        "Multiple bosses or repeated boss waves can overlap abilities and exhaust flask/recovery windows.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "multi-boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Backwash",
+      "aliases": [
+        "Backwash map"
+      ],
+      "biome": "Forest, Swamp",
+      "base_tileset": "Jungle Ruins",
+      "boss": "Yaota, the Loathsome",
+      "notes": "A dense forest map culminating in a fight against the repulsive Yaota.",
+      "summary": "A Forest, Swamp biome, based on Jungle Ruins map. A dense forest map culminating in a fight against the repulsive Yaota.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Yaota, the Loathsome.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Bastille",
+      "aliases": [
+        "Bastille map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "Veynar, the Frostbane",
+      "notes": "",
+      "summary": "A Grass biome map culminating in a fight against Veynar, the Frostbane.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Veynar, the Frostbane."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Bloodwood",
+      "aliases": [
+        "Bloodwood map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "Gorian, the Moving Earth",
+      "notes": "Characterized by a linear layout with tight, narrow passages that restrict movement.",
+      "summary": "A Forest biome map. Characterized by a linear layout with tight, narrow passages that restrict movement.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: Gorian, the Moving Earth.",
+        "Constrained paths can body-block HC characters and make ground effects harder to dodge.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "linear",
+        "constrained"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Blooming Field",
+      "aliases": [
+        "Blooming Field map"
+      ],
+      "biome": "Forest, Grass",
+      "base_tileset": "Hunting Grounds",
+      "boss": "The Black Crow",
+      "notes": "A sprawling, open area layout where players hunt down The Black Crow.",
+      "summary": "A Forest, Grass biome, based on Hunting Grounds map. A sprawling, open area layout where players hunt down The Black Crow.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: The Black Crow.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Bluff",
+      "aliases": [
+        "Bluff map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "Gressor-Kul, the Apex",
+      "notes": "This is a Tower map. Completing it reveals a portion of the Atlas and allows you to use Tablets to empower nearby maps.",
+      "summary": "A Grass biome tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Gressor-Kul, the Apex.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Burial Bog",
+      "aliases": [
+        "Burial Bog map"
+      ],
+      "biome": "Swamp",
+      "base_tileset": "",
+      "boss": "Grudgelash, Vile Ent",
+      "notes": "A murky swamp environment where the ancient and malevolent Grudgelash awaits.",
+      "summary": "A Swamp biome map. A murky swamp environment where the ancient and malevolent Grudgelash awaits.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Grudgelash, Vile Ent.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Caldera",
+      "aliases": [
+        "Caldera map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "The Ravenous Fang",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against The Ravenous Fang.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: The Ravenous Fang."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Canal Hideout",
+      "aliases": [
+        "Canal Hideout map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "This area has no boss. Once cleared of all enemies, it can be claimed as a personal Hideout.",
+      "summary": "A claimable Grass biome hideout map with no normal boss pressure once the area is cleared.",
+      "hc_difficulty": "Low",
+      "risk_score": 1,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "hideout",
+        "no boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Canyon",
+      "aliases": [
+        "Canyon map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "",
+      "boss": "Morvak, the Infernal",
+      "notes": "",
+      "summary": "A Desert biome map culminating in a fight against Morvak, the Infernal.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Morvak, the Infernal."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Caer Tarth",
+      "aliases": [
+        "Caer Tarth map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Castaway",
+      "aliases": [
+        "Castaway map"
+      ],
+      "biome": "Water",
+      "base_tileset": "Journey's End",
+      "boss": "Torrek of the Drowned Fleet",
+      "notes": "A unique map focused on wealth. Grants a massive 500-1000% increase to Gold found, and all items that drop are converted to Gold. It also contains buried treasure.",
+      "summary": "A Water biome, based on Journey's End map. A unique map focused on wealth. Grants a massive 500-1000% increase to Gold found, and all items that drop are converted to Gold. It also contains buried treasure.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Torrek of the Drowned Fleet.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "unique"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Cenotes",
+      "aliases": [
+        "Cenotes map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "A beach region with spacious environment to move around.",
+      "summary": "A Mountain biome map. A beach region with spacious environment to move around.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Channel",
+      "aliases": [
+        "Channel map"
+      ],
+      "biome": "Faridun City",
+      "base_tileset": "Buried Shrines",
+      "boss": "Hask, the Fallen Son",
+      "notes": "This map will only appear on the Atlas near a Copper Citadel.",
+      "summary": "A pinnacle-style Faridun City biome, based on Buried Shrines citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Hask, the Fallen Son.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "copper citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Cliffside",
+      "aliases": [
+        "Cliffside map"
+      ],
+      "biome": "",
+      "base_tileset": "Arastas",
+      "boss": "Brakkus, the Juggernaut",
+      "notes": "",
+      "summary": "A based on Arastas map culminating in a fight against Brakkus, the Juggernaut.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Brakkus, the Juggernaut."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Confluence",
+      "aliases": [
+        "Confluence map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Manassam, the Serpent Queen",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Manassam, the Serpent Queen.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Manassam, the Serpent Queen."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Creek",
+      "aliases": [
+        "Creek map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "Tierney, the Hateful",
+      "notes": "Features a wide, open area layout, giving players plenty of room to maneuver.",
+      "summary": "A Forest biome map. Features a wide, open area layout, giving players plenty of room to maneuver.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Tierney, the Hateful.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Crimson Shores",
+      "aliases": [
+        "Crimson Shores map"
+      ],
+      "biome": "Water",
+      "base_tileset": "Vastiri Outskirts",
+      "boss": "Rattlecage, the Earthbreaker",
+      "notes": "A straightforward map with a linear area layout.",
+      "summary": "A Water biome, based on Vastiri Outskirts map. A straightforward map with a linear area layout.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Rattlecage, the Earthbreaker.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Crux of Nothingness",
+      "aliases": [
+        "Crux of Nothingness map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Forest biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Crypt",
+      "aliases": [
+        "Crypt map"
+      ],
+      "biome": "Desert, Grass",
+      "base_tileset": "",
+      "boss": "Meltwax, Mockery of Faith",
+      "notes": "A circular, tube-like layout. Players must use switches on pillars to unlock and progress through locked sections.",
+      "summary": "A Desert, Grass biome map. A circular, tube-like layout. Players must use switches on pillars to unlock and progress through locked sections.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: Meltwax, Mockery of Faith.",
+        "Constrained paths can body-block HC characters and make ground effects harder to dodge.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "constrained"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Decay",
+      "aliases": [
+        "Decay map"
+      ],
+      "biome": "Grass, Forest, Swamp",
+      "base_tileset": "The Grim Tangle",
+      "boss": "The Fungus Behemoth",
+      "notes": "Navigate a circular swamp environment to confront a monstrous fungal entity.",
+      "summary": "A Grass, Forest, Swamp biome, based on The Grim Tangle map. Navigate a circular swamp environment to confront a monstrous fungal entity.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: The Fungus Behemoth.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Derelict Mansion",
+      "aliases": [
+        "Derelict Mansion map"
+      ],
+      "biome": "Swamp, Grass, Forest",
+      "base_tileset": "",
+      "boss": "Varloch the Ashen Lord Avelyne the Withered Rose",
+      "notes": "",
+      "summary": "A Swamp, Grass, Forest biome map culminating in a fight against Varloch the Ashen Lord Avelyne the Withered Rose.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Varloch the Ashen Lord Avelyne the Withered Rose.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Deserted",
+      "aliases": [
+        "Deserted map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "Deshar",
+      "boss": "Lord of the Pit",
+      "notes": "A barren desert landscape dominated by the fearsome Lord of the Pit.",
+      "summary": "A Desert biome, based on Deshar map. A barren desert landscape dominated by the fearsome Lord of the Pit.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Lord of the Pit."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Digsite",
+      "aliases": [
+        "Digsite map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Aurelian, the Grand Adjudicator",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Aurelian, the Grand Adjudicator.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Aurelian, the Grand Adjudicator."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Eastern Enigma Chamber",
+      "aliases": [
+        "Eastern Enigma Chamber map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Grass biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Eastern Gateway",
+      "aliases": [
+        "Eastern Gateway map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Forest biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Epitaph",
+      "aliases": [
+        "Epitaph map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Saphira, The Dread Consort",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Saphira, The Dread Consort.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Saphira, The Dread Consort."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Estazunti's Vault",
+      "aliases": [
+        "Estazunti's Vault map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Mountain biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Felled Hideout",
+      "aliases": [
+        "Felled Hideout map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "Clearfell",
+      "boss": "",
+      "notes": "This area has no boss. Once cleared of all enemies, it can be claimed as a personal Hideout.",
+      "summary": "A claimable Forest biome, based on Clearfell hideout map with no normal boss pressure once the area is cleared.",
+      "hc_difficulty": "Low",
+      "risk_score": 1,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "hideout",
+        "no boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Flotsam",
+      "aliases": [
+        "Flotsam map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Malgor, the Nautlord",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Malgor, the Nautlord.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Malgor, the Nautlord."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Forge",
+      "aliases": [
+        "Forge map"
+      ],
+      "biome": "Mountain, Desert",
+      "base_tileset": "The Titan Grotto",
+      "boss": "Vastweld, the Colossal Guardian",
+      "notes": "A circular, tube-like layout leading to the domain of a massive guardian.",
+      "summary": "A Mountain, Desert biome, based on The Titan Grotto map. A circular, tube-like layout leading to the domain of a massive guardian.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Vastweld, the Colossal Guardian.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Fortress",
+      "aliases": [
+        "Fortress map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "The Manor Ramparts",
+      "boss": "Pirasha, the Forgotten Prisoner",
+      "notes": "Battle through fortress ramparts to find and face an escaped, formidable prisoner.",
+      "summary": "A Desert biome, based on The Manor Ramparts map. Battle through fortress ramparts to find and face an escaped, formidable prisoner.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Pirasha, the Forgotten Prisoner."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Frozen Falls",
+      "aliases": [
+        "Frozen Falls map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "Riona, Winter's Cackle",
+      "notes": "A frigid, swampy area full of small islands connected by bridges, where the chilling laughter of Riona echoes.",
+      "summary": "A Mountain biome map. A frigid, swampy area full of small islands connected by bridges, where the chilling laughter of Riona echoes.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Riona, Winter's Cackle.",
+        "Wet terrain and islands can limit clean retreat paths.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Gothic City",
+      "aliases": [
+        "Gothic City map"
+      ],
+      "biome": "Ezomyte City",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "This map will only appear on the Atlas near an Iron Citadel.",
+      "summary": "A pinnacle-style Ezomyte City biome citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "citadel",
+        "iron citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Grimhaven",
+      "aliases": [
+        "Grimhaven map"
+      ],
+      "biome": "Ezomyte City",
+      "base_tileset": "The Manor Ramparts",
+      "boss": "Asinia, the Praetor's Consort",
+      "notes": "This map will only appear on the Atlas near an Iron Citadel.",
+      "summary": "A pinnacle-style Ezomyte City biome, based on The Manor Ramparts citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Asinia, the Praetor's Consort.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "iron citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Headland",
+      "aliases": [
+        "Headland map"
+      ],
+      "biome": "Faridun City",
+      "base_tileset": "",
+      "boss": "Hask, the Fallen Son",
+      "notes": "A linear layout. This map will only appear on the Atlas near a Copper Citadel.",
+      "summary": "A pinnacle-style Faridun City biome citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Hask, the Fallen Son.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "copper citadel region",
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Hidden Grotto",
+      "aliases": [
+        "Hidden Grotto map"
+      ],
+      "biome": "Mountain, Grass, Forest, Swamp",
+      "base_tileset": "",
+      "boss": "Zar Wali, the Bone Tyrant",
+      "notes": "A concealed cave system across various biomes where the Bone Tyrant lurks.",
+      "summary": "A Mountain, Grass, Forest, Swamp biome map. A concealed cave system across various biomes where the Bone Tyrant lurks.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Zar Wali, the Bone Tyrant.",
+        "Wet terrain and islands can limit clean retreat paths.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Hilda's Campsite",
+      "aliases": [
+        "Hilda's Campsite map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Hive",
+      "aliases": [
+        "Hive map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "Infested Barrens (desert part)",
+      "boss": "",
+      "notes": "A network of jagged rock structures infested with insectoid creatures.",
+      "summary": "A Desert biome, based on Infested Barrens (desert part) map. A network of jagged rock structures infested with insectoid creatures.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Ice Cave",
+      "aliases": [
+        "Ice Cave map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Mountain biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Limestone Hideout",
+      "aliases": [
+        "Limestone Hideout map"
+      ],
+      "biome": "Water",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "This area has no boss. Once cleared of all enemies, it can be claimed as a personal Hideout.",
+      "summary": "A claimable Water biome hideout map with no normal boss pressure once the area is cleared.",
+      "hc_difficulty": "Low",
+      "risk_score": 1,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "hideout",
+        "no boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Lofty Summit",
+      "aliases": [
+        "Lofty Summit map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "Oloton, the Remorseless",
+      "notes": "A linear layout with small forks that rejoin the main path, leading to a high-altitude confrontation.",
+      "summary": "A Mountain biome map. A linear layout with small forks that rejoin the main path, leading to a high-altitude confrontation.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Oloton, the Remorseless.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Lost Towers",
+      "aliases": [
+        "Lost Towers map"
+      ],
+      "biome": "Forest, Desert",
+      "base_tileset": "The Spires of Deshar",
+      "boss": "Chetza, the Feathered Plague",
+      "notes": "This is a Tower map. Completing it reveals a portion of the Atlas and allows you to use Tablets to empower nearby maps.",
+      "summary": "A Forest, Desert biome, based on The Spires of Deshar tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Chetza, the Feathered Plague.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Marrow",
+      "aliases": [
+        "Marrow map"
+      ],
+      "biome": "Desert, Mountain",
+      "base_tileset": "",
+      "boss": "Zar Wali, the Bone Tyrant",
+      "notes": "",
+      "summary": "A Desert, Mountain biome map culminating in a fight against Zar Wali, the Bone Tyrant.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Zar Wali, the Bone Tyrant.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Mesa",
+      "aliases": [
+        "Mesa map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "",
+      "boss": "Karash, The Dune Dweller",
+      "notes": "This is a Tower map. Completing it reveals a portion of the Atlas and allows you to use Tablets to empower nearby maps.",
+      "summary": "A Desert biome tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Karash, The Dune Dweller.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Mineshaft",
+      "aliases": [
+        "Mineshaft map"
+      ],
+      "biome": "Faridun City",
+      "base_tileset": "Mawdun Mine",
+      "boss": "Rudja, the Dread Engineer",
+      "notes": "This map will only appear on the Atlas near a Copper Citadel.",
+      "summary": "A pinnacle-style Faridun City biome, based on Mawdun Mine citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Rudja, the Dread Engineer.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "copper citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Mire",
+      "aliases": [
+        "Mire map"
+      ],
+      "biome": "Forest, Swamp",
+      "base_tileset": "Freythorn",
+      "boss": "Riona, Winter's Cackle",
+      "notes": "A swampy map where players navigate treacherous small islands and fight Riona, Winter's Cackle.",
+      "summary": "A Forest, Swamp biome, based on Freythorn map. A swampy map where players navigate treacherous small islands and fight Riona, Winter's Cackle.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Riona, Winter's Cackle.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Molten Vault",
+      "aliases": [
+        "Molten Vault map"
+      ],
+      "biome": "Mountain, Vaal City",
+      "base_tileset": "The Molten Vault",
+      "boss": "Gulzal, the Living Furnace",
+      "notes": "",
+      "summary": "A Mountain, Vaal City biome, based on The Molten Vault map culminating in a fight against Gulzal, the Living Furnace.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Gulzal, the Living Furnace.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Moment of Zen",
+      "aliases": [
+        "Moment of Zen map"
+      ],
+      "biome": "Water",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "A unique, peaceful map containing the Nameless Seer and no hostile monsters.",
+      "summary": "A Water biome map. A unique, peaceful map containing the Nameless Seer and no hostile monsters.",
+      "hc_difficulty": "Low",
+      "risk_score": 1,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "unique",
+        "no boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Monastery of the Keepers",
+      "aliases": [
+        "Monastery of the Keepers map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Necropolis",
+      "aliases": [
+        "Necropolis map"
+      ],
+      "biome": "Ezomyte City",
+      "base_tileset": "Cemetery of the Eternals but with plants",
+      "boss": "Tycho, the Black Praetor",
+      "notes": "This map will only appear on the Atlas near an Iron Citadel.",
+      "summary": "A pinnacle-style Ezomyte City biome, based on Cemetery of the Eternals but with plants citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Tycho, the Black Praetor.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "iron citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Oasis",
+      "aliases": [
+        "Oasis map"
+      ],
+      "biome": "Desert or Faridun City",
+      "base_tileset": "",
+      "boss": "Ishtaroth, the Perennial",
+      "notes": "A linear, horseshoe-shaped layout with a wide middle section.",
+      "summary": "A Desert or Faridun City biome map. A linear, horseshoe-shaped layout with a wide middle section.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Ishtaroth, the Perennial."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Ornate Chambers",
+      "aliases": [
+        "Ornate Chambers map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "Serath, the Scaled One",
+      "notes": "",
+      "summary": "A Mountain biome map culminating in a fight against Serath, the Scaled One.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Serath, the Scaled One.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Overgrown",
+      "aliases": [
+        "Overgrown map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "Tetzcatl, the Blazing Guardian",
+      "notes": "",
+      "summary": "A Forest biome map culminating in a fight against Tetzcatl, the Blazing Guardian.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Tetzcatl, the Blazing Guardian."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Penitentiary",
+      "aliases": [
+        "Penitentiary map"
+      ],
+      "biome": "Ezomyte City",
+      "base_tileset": "",
+      "boss": "Incarnation of Death",
+      "notes": "This map will only appear on the Atlas near an Iron Citadel.",
+      "summary": "A pinnacle-style Ezomyte City biome citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Incarnation of Death.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "iron citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Plantation",
+      "aliases": [
+        "Plantation map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Grass biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Precursor Tower",
+      "aliases": [
+        "Precursor Tower map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Ravine",
+      "aliases": [
+        "Ravine map"
+      ],
+      "biome": "Mountain or Faridun City",
+      "base_tileset": "The Trial of Chaos",
+      "boss": "Tetzcatl, the Blazing Guardian",
+      "notes": "A very direct and extremely linear layout.",
+      "summary": "A Mountain or Faridun City biome, based on The Trial of Chaos map. A very direct and extremely linear layout.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Tetzcatl, the Blazing Guardian.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Razed Fields",
+      "aliases": [
+        "Razed Fields map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Ignatia, the Flame Sworn Gelida, the Frost Tongue",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Ignatia, the Flame Sworn Gelida, the Frost Tongue.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Ignatia, the Flame Sworn Gelida, the Frost Tongue."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Reservoir",
+      "aliases": [
+        "Reservoir map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Forest biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Riverhold",
+      "aliases": [
+        "Riverhold map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Thariel, the Umbral Wraith",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Thariel, the Umbral Wraith.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Thariel, the Umbral Wraith."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Riverside",
+      "aliases": [
+        "Riverside map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "Zekoa, The Headcrusher",
+      "notes": "A straightforward map with a linear layout that follows a river.",
+      "summary": "A Forest biome map. A straightforward map with a linear layout that follows a river.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Zekoa, The Headcrusher."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "linear"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Rockpools",
+      "aliases": [
+        "Rockpools map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Brughor, the Insatiable",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Brughor, the Insatiable.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Brughor, the Insatiable."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Rugosa",
+      "aliases": [
+        "Rugosa map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Syvora, Daughter of the Deep",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Syvora, Daughter of the Deep.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Syvora, Daughter of the Deep."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Ruins of Kingsmarch",
+      "aliases": [
+        "Ruins of Kingsmarch map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Rupture",
+      "aliases": [
+        "Rupture map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Zekoa, The Headcrusher",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Zekoa, The Headcrusher.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Zekoa, The Headcrusher."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Rustbowl",
+      "aliases": [
+        "Rustbowl map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "Vastiri Outskirts",
+      "boss": "Gozen, Rebellious Rustlord",
+      "notes": "A large, open area where players must hunt down the rogue Rustlord.",
+      "summary": "A Desert biome, based on Vastiri Outskirts map. A large, open area where players must hunt down the rogue Rustlord.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Gozen, Rebellious Rustlord.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sacred Reservoir",
+      "aliases": [
+        "Sacred Reservoir map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Zahmir, the Blade Sovereign",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Zahmir, the Blade Sovereign.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Zahmir, the Blade Sovereign."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sanctuary",
+      "aliases": [
+        "Sanctuary map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Desert biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sandspit",
+      "aliases": [
+        "Sandspit map"
+      ],
+      "biome": "Water",
+      "base_tileset": "",
+      "boss": "The Sandstrider",
+      "notes": "An open area layout comprised of two long, parallel stretches intermittently connected by small passages and one larger connection.",
+      "summary": "A Water biome map. An open area layout comprised of two long, parallel stretches intermittently connected by small passages and one larger connection.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: The Sandstrider.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Savannah",
+      "aliases": [
+        "Savannah map"
+      ],
+      "biome": "Grass, Desert",
+      "base_tileset": "",
+      "boss": "Caedron, the Hyena Lord",
+      "notes": "A vast, open area where the ferocious Hyena Lord and his pack roam.",
+      "summary": "A Grass, Desert biome map. A vast, open area where the ferocious Hyena Lord and his pack roam.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss encounter: Caedron, the Hyena Lord.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sealed Vault",
+      "aliases": [
+        "Sealed Vault map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Mountain biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Seepage",
+      "aliases": [
+        "Seepage map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "The Fungus Behemoth",
+      "notes": "A circular layout with small corridors, creating a claustrophobic path to the boss.",
+      "summary": "A Grass biome map. A circular layout with small corridors, creating a claustrophobic path to the boss.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: The Fungus Behemoth.",
+        "Constrained paths can body-block HC characters and make ground effects harder to dodge.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "constrained"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Shrine Hideout",
+      "aliases": [
+        "Shrine Hideout map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "Buried Shrines",
+      "boss": "",
+      "notes": "This area has no boss. Once cleared of all enemies, it can be claimed as a personal Hideout.",
+      "summary": "A claimable Desert biome, based on Buried Shrines hideout map with no normal boss pressure once the area is cleared.",
+      "hc_difficulty": "Low",
+      "risk_score": 1,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "hideout",
+        "no boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sinking Spire",
+      "aliases": [
+        "Sinking Spire map"
+      ],
+      "biome": "Swamp",
+      "base_tileset": "Temple of Kopec",
+      "boss": "Stormgore",
+      "notes": "This is a Tower map with three floors, each with a triangular layout. Completing it reveals a portion of the Atlas and allows the use of Tablets.",
+      "summary": "A Swamp biome, based on Temple of Kopec tower map used to reveal Atlas territory and enable Tablet empowerment for nearby maps.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Stormgore.",
+        "Tower value comes from Atlas reveal; do not over-roll it just for rewards.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "tower"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sinkhole",
+      "aliases": [
+        "Sinkhole map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Yama The White",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Yama The White.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Yama The White."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Slash",
+      "aliases": [
+        "Slash map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Forest biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Slick",
+      "aliases": [
+        "Slick map"
+      ],
+      "biome": "Mountain",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "Features a loop layout with large, expansive corridors.",
+      "summary": "A Mountain biome map. Features a loop layout with large, expansive corridors.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Spider Woods",
+      "aliases": [
+        "Spider Woods map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "The Grelwood",
+      "boss": "Rootgrasp, the Hateful Forest",
+      "notes": "A spider-infested forest where even the woods themselves are hostile.",
+      "summary": "A Forest biome, based on The Grelwood map. A spider-infested forest where even the woods themselves are hostile.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Rootgrasp, the Hateful Forest."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Spring",
+      "aliases": [
+        "Spring map"
+      ],
+      "biome": "Desert",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Desert biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Steaming Springs",
+      "aliases": [
+        "Steaming Springs map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "Manassa, the Serpent Queen",
+      "notes": "A beach-type area with an open layout ruled by a formidable serpentine boss.",
+      "summary": "A Grass biome map. A beach-type area with an open layout ruled by a formidable serpentine boss.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Manassa, the Serpent Queen."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Stronghold",
+      "aliases": [
+        "Stronghold map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "The Shackled Horror",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against The Shackled Horror.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: The Shackled Horror."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Steppe",
+      "aliases": [
+        "Steppe map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "A vast and open area layout, typical of grassy plains.",
+      "summary": "A Grass biome map. A vast and open area layout, typical of grassy plains.",
+      "hc_difficulty": "Low-Medium",
+      "risk_score": 2,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "open"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sulphuric Caverns",
+      "aliases": [
+        "Sulphuric Caverns map"
+      ],
+      "biome": "Desert, Mountain",
+      "base_tileset": "",
+      "boss": "Lord of the Pit and The Bone Colossus",
+      "notes": "A long rectangular map with many small passages creating a maze-like environment.",
+      "summary": "A Desert, Mountain biome map. A long rectangular map with many small passages creating a maze-like environment.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: Lord of the Pit and The Bone Colossus.",
+        "Constrained paths can body-block HC characters and make ground effects harder to dodge.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "constrained"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sump",
+      "aliases": [
+        "Sump map"
+      ],
+      "biome": "Swamp",
+      "base_tileset": "Chimeral Wetlands",
+      "boss": "Brakka, the Withered Crone",
+      "notes": "A foul, water-logged area with a circular layout.",
+      "summary": "A Swamp biome, based on Chimeral Wetlands map. A foul, water-logged area with a circular layout.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Brakka, the Withered Crone.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Sun Temple",
+      "aliases": [
+        "Sun Temple map"
+      ],
+      "biome": "Vaal City",
+      "base_tileset": "Temple of Kopec",
+      "boss": "Tonqui, Seer of the Sun",
+      "notes": "An ancient Vaal temple dedicated to the sun, now home to a powerful seer.",
+      "summary": "A Vaal City biome, based on Temple of Kopec map. An ancient Vaal temple dedicated to the sun, now home to a powerful seer.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Tonqui, Seer of the Sun."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Assembly",
+      "aliases": [
+        "The Assembly map",
+        "Assembly"
+      ],
+      "biome": "Grass, Vaal City",
+      "base_tileset": "Jiquani's Sanctum",
+      "boss": "Tetzcatl, the Blazing Guardian",
+      "notes": "",
+      "summary": "A Grass, Vaal City biome, based on Jiquani's Sanctum map culminating in a fight against Tetzcatl, the Blazing Guardian.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Tetzcatl, the Blazing Guardian."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Burning Monolith",
+      "aliases": [
+        "The Burning Monolith map",
+        "Burning Monolith"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Copper Citadel",
+      "aliases": [
+        "The Copper Citadel map",
+        "Copper Citadel"
+      ],
+      "biome": "Faridun City",
+      "base_tileset": "Dreadnought Vanguard",
+      "boss": "Jamanra, the Abomination",
+      "notes": "A key endgame encounter where players face an empowered version of the Act 2 boss. This area is only accessible with a Tier 15 or above Waystone.",
+      "summary": "A pinnacle-style Faridun City biome, based on Dreadnought Vanguard citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Jamanra, the Abomination.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "tier-gated"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Ezomyte Megaliths",
+      "aliases": [
+        "The Ezomyte Megaliths map",
+        "Ezomyte Megaliths"
+      ],
+      "biome": "Forest, Grass",
+      "base_tileset": "The Grelwood",
+      "boss": "Random Map Boss",
+      "notes": "",
+      "summary": "A Forest, Grass biome, based on The Grelwood map culminating in a fight against Random Map Boss.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Random Map Boss."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Fractured Lake",
+      "aliases": [
+        "The Fractured Lake map",
+        "Fractured Lake"
+      ],
+      "biome": "Water",
+      "base_tileset": "The Lake of Kalandra",
+      "boss": "",
+      "notes": "A unique map where Rare monsters are mirrored. It has a 150-300% increased number of Rare monsters, and the Fragmented Mirror contains an exclusive amulet or ring base.",
+      "summary": "A Water biome, based on The Lake of Kalandra map. A unique map where Rare monsters are mirrored. It has a 150-300% increased number of Rare monsters, and the Fragmented Mirror contains an exclusive amulet or ring base.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Rare-heavy mechanics can stack dangerous monster modifiers faster than a normal map.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Read rare modifiers before committing; skip combinations your build cannot disengage from.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "unique",
+        "rare-heavy"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Iron Citadel",
+      "aliases": [
+        "The Iron Citadel map",
+        "Iron Citadel"
+      ],
+      "biome": "Ezomyte City",
+      "base_tileset": "Ogham Manor",
+      "boss": "Count Geonor",
+      "notes": "A key endgame encounter where players face an empowered version of the Act 1 boss. This area is only accessible with a Tier 15 or above Waystone.",
+      "summary": "A pinnacle-style Ezomyte City biome, based on Ogham Manor citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Count Geonor.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "tier-gated"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Jade Isles",
+      "aliases": [
+        "The Jade Isles map",
+        "Jade Isles"
+      ],
+      "biome": "",
+      "base_tileset": "Heart of the Tribe",
+      "boss": "Manoki, the Chosen",
+      "notes": "",
+      "summary": "A based on Heart of the Tribe map culminating in a fight against Manoki, the Chosen.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Manoki, the Chosen."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Phaaryl Megalith",
+      "aliases": [
+        "The Phaaryl Megalith map",
+        "Phaaryl Megalith"
+      ],
+      "biome": "Forest, Grass",
+      "base_tileset": "The Grelwood",
+      "boss": "Random map bosses",
+      "notes": "A powerful boss encounter where you summon up to 9 waves of map bosses, with a double boss on the final wave. Each defeated boss unlocks chests with random runes.",
+      "summary": "A Forest, Grass biome, based on The Grelwood map. A powerful boss encounter where you summon up to 9 waves of map bosses, with a double boss on the final wave. Each defeated boss unlocks chests with random runes.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: Random map bosses.",
+        "Multiple bosses or repeated boss waves can overlap abilities and exhaust flask/recovery windows.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "unique",
+        "multi-boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Matriarch Halls",
+      "aliases": [
+        "The Matriarch Halls map",
+        "Matriarch Halls"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Grass biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Origin Tower",
+      "aliases": [
+        "The Origin Tower map",
+        "Origin Tower"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Patriarch Halls",
+      "aliases": [
+        "The Patriarch Halls map",
+        "Patriarch Halls"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Grass biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Silent Cave",
+      "aliases": [
+        "The Silent Cave map",
+        "Silent Cave"
+      ],
+      "biome": "Desert",
+      "base_tileset": "",
+      "boss": "Random map boss",
+      "notes": "This map contains many Rare monsters trapped in Essences and an imprisoned boss that absorbs Essences from them. Requires a Waystone of Tier 11 or higher to access.",
+      "summary": "A Desert biome map. This map contains many Rare monsters trapped in Essences and an imprisoned boss that absorbs Essences from them. Requires a Waystone of Tier 11 or higher to access.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: Random map boss.",
+        "Rare-heavy mechanics can stack dangerous monster modifiers faster than a normal map.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Read rare modifiers before committing; skip combinations your build cannot disengage from.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "unique",
+        "rare-heavy",
+        "tier-gated"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Stone Citadel",
+      "aliases": [
+        "The Stone Citadel map",
+        "Stone Citadel"
+      ],
+      "biome": "Vaal City",
+      "base_tileset": "Jiquani's Machinarium, The Black Chambers",
+      "boss": "Doryani, Royal Thaumaturge",
+      "notes": "A key endgame encounter where players face an empowered version of the Act 3 boss. This area is only accessible with a Tier 15 or above Waystone.",
+      "summary": "A pinnacle-style Vaal City biome, based on Jiquani's Machinarium, The Black Chambers citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Doryani, Royal Thaumaturge.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "tier-gated"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Viridian Wildwood",
+      "aliases": [
+        "The Viridian Wildwood map",
+        "Viridian Wildwood"
+      ],
+      "biome": "Forest, Swamp",
+      "base_tileset": "The Grelwood, The Viridian Wildwood",
+      "boss": "",
+      "notes": "This area is shrouded in darkness and contains Omen altars. Players can find several chests that contain powerful Omens.",
+      "summary": "A Forest, Swamp biome, based on The Grelwood, The Viridian Wildwood map. This area is shrouded in darkness and contains Omen altars. Players can find several chests that contain powerful Omens.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Wet terrain and islands can limit clean retreat paths.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "unique"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Well of Souls",
+      "aliases": [
+        "The Well of Souls map",
+        "Well of Souls"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "The Withered Willow",
+      "aliases": [
+        "The Withered Willow map",
+        "Withered Willow"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Atlas map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Trenches",
+      "aliases": [
+        "Trenches map"
+      ],
+      "biome": "Swamp",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "A network of defensive ditches was dug into a swampy battlefield.",
+      "summary": "A Swamp biome map. A network of defensive ditches was dug into a swampy battlefield.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Untainted Paradise",
+      "aliases": [
+        "Untainted Paradise map"
+      ],
+      "biome": "Water",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "A unique map offering a 200-400% increased Experience gain bonus. However, monsters within this paradise do not drop any items.",
+      "summary": "A Water biome map. A unique map offering a 200-400% increased Experience gain bonus. However, monsters within this paradise do not drop any items.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "unique"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Vaal City",
+      "aliases": [
+        "Vaal City map"
+      ],
+      "biome": "Vaal City",
+      "base_tileset": "Utzaal",
+      "boss": "Viper Napuatzi",
+      "notes": "This map will only appear on the Atlas near a Stone Citadel.",
+      "summary": "A pinnacle-style Vaal City biome, based on Utzaal citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Boss encounter: Viper Napuatzi.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "citadel",
+        "stone citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Vaal Foundry",
+      "aliases": [
+        "Vaal Foundry map"
+      ],
+      "biome": "Mountain, Vaal City",
+      "base_tileset": "The Molten Vault",
+      "boss": "Gulzal, the Living Furnace",
+      "notes": "A hazardous, molten-filled foundry culminating in a battle with a fiery elemental.",
+      "summary": "A Mountain, Vaal City biome, based on The Molten Vault map. A hazardous, molten-filled foundry culminating in a battle with a fiery elemental.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Gulzal, the Living Furnace.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Vaults of Kamasa",
+      "aliases": [
+        "Vaults of Kamasa map"
+      ],
+      "biome": "Vaal City",
+      "base_tileset": "Jiquani's Sanctum",
+      "boss": "",
+      "notes": "A rewarding map with 100-200% increased item rarity. All chests are Magic or Rare, but the area contains no monsters. Only spawns near a Stone Citadel.",
+      "summary": "A pinnacle-style Vaal City biome, based on Jiquani's Sanctum citadel encounter with a major boss and high-tier Waystone requirements.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "No listed boss, but rare monsters and map modifiers can still create lethal spikes.",
+        "Citadel bosses are high-tier progression fights with low tolerance for mistakes.",
+        "Cave or mountain tiles can hide threats around corners and choke points."
+      ],
+      "tips": [
+        "Run this only on a character that already handles high-tier boss damage comfortably.",
+        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [
+        "citadel",
+        "unique",
+        "no boss",
+        "stone citadel region"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Wayward Isle",
+      "aliases": [
+        "Wayward Isle map"
+      ],
+      "biome": "",
+      "base_tileset": "",
+      "boss": "Lord of the Pit",
+      "notes": "",
+      "summary": "A Atlas map culminating in a fight against Lord of the Pit.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Lord of the Pit."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Wetlands",
+      "aliases": [
+        "Wetlands map"
+      ],
+      "biome": "Swamp",
+      "base_tileset": "",
+      "boss": "2x Gorian, the Moving Earth",
+      "notes": "An expansive open area layout where players must face two formidable earth elementals.",
+      "summary": "A Swamp biome map. An expansive open area layout where players must face two formidable earth elementals.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: 2x Gorian, the Moving Earth.",
+        "Open sightlines can layer projectiles or fast rare pressure from several angles.",
+        "Multiple bosses or repeated boss waves can overlap abilities and exhaust flask/recovery windows.",
+        "Wet terrain and islands can limit clean retreat paths."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
+        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "open",
+        "multi-boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Western Enigma Chamber",
+      "aliases": [
+        "Western Enigma Chamber map"
+      ],
+      "biome": "Grass",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Grass biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Western Gateway",
+      "aliases": [
+        "Western Gateway map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "",
+      "notes": "",
+      "summary": "A Forest biome map with limited public notes; treat its layout and boss state as partially unknown.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss data is missing or unconfirmed, so assume unknown burst windows."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Willow",
+      "aliases": [
+        "Willow map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "Connal, the Tormented",
+      "notes": "A dense forest haunted by a tormented spirit.",
+      "summary": "A Forest biome map. A dense forest haunted by a tormented spirit.",
+      "hc_difficulty": "Medium",
+      "risk_score": 3,
+      "threats": [
+        "Boss encounter: Connal, the Tormented."
+      ],
+      "tips": [
+        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
+        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+      ],
+      "tags": [],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    },
+    {
+      "name": "Woodland",
+      "aliases": [
+        "Woodland map"
+      ],
+      "biome": "Forest",
+      "base_tileset": "",
+      "boss": "2x Tierney, the Hateful",
+      "notes": "Players must navigate this wooded area and defeat a duo of Tierney, the Hateful.",
+      "summary": "A Forest biome map. Players must navigate this wooded area and defeat a duo of Tierney, the Hateful.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Boss encounter: 2x Tierney, the Hateful.",
+        "Multiple bosses or repeated boss waves can overlap abilities and exhaust flask/recovery windows.",
+        "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
+      ],
+      "tips": [
+        "Start with conservative mods until you know the layout and boss pattern.",
+        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
+        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+      ],
+      "tags": [
+        "multi-boss"
+      ],
+      "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+    }
+  ]
+}
