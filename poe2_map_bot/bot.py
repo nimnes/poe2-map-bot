@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 from dotenv import load_dotenv
-from telegram import Update
+from telegram import LinkPreviewOptions, Update
 from telegram.constants import ParseMode
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
@@ -107,7 +107,11 @@ async def answer_boss_query(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         await update.effective_message.reply_text(
             format_boss_guide(guide),
             parse_mode=ParseMode.MARKDOWN_V2,
-            disable_web_page_preview=False,
+            link_preview_options=LinkPreviewOptions(
+                is_disabled=False,
+                url=guide.video_url,
+                prefer_large_media=True,
+            ),
         )
         return
 
