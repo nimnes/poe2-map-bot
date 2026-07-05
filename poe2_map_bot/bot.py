@@ -107,7 +107,7 @@ async def answer_boss_query(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         await update.effective_message.reply_text(
             format_boss_guide(guide),
             parse_mode=ParseMode.MARKDOWN_V2,
-            disable_web_page_preview=True,
+            disable_web_page_preview=False,
         )
         return
 
