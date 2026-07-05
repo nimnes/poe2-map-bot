@@ -1,6 +1,6 @@
 {
-  "source": "https://pathofexile2.wiki.fextralife.com/Maps",
-  "generated_from": "Fextralife Maps table fetched 2026-07-04; HC notes are derived from listed biome, boss, tileset, and notes.",
+  "source": "https://pathofexile2.wiki.fextralife.com/Maps; https://poe2db.tw/us/Waystones",
+  "generated_from": "Fextralife Maps table fetched 2026-07-05; PoE2DB Waystones page checked 2026-07-05 for endgame map and unique-map context; HC tips are curated from listed biome, boss, tileset, notes, and special mechanics.",
   "maps": [
     {
       "name": "Alpine Ridge",
@@ -20,9 +20,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat the dual Gelida/Ignatia fight as alternating cold and fire pressure; keep both resistances capped before spending a good tower node.",
+        "Use the tower for Atlas reveal first, then place rewarding Tablets on safer surrounding maps rather than forcing hard mods here.",
+        "Mountain corners can hide packs close to the entrance of a room, so step into new sections slowly instead of blinking deep."
       ],
       "tags": [
         "tower"
@@ -45,8 +45,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Because public boss and layout data is thin, run the first copy as a scouting map with only mods your character can ignore.",
+        "Keep a portal-side mental note of the route you used; unknown gateway-style maps are worse when retreat paths are improvised.",
+        "Skip reduced recovery plus monster damage stacks until the boss state is confirmed for your build."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -68,9 +69,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Activate the three Stone Altars only after nearby packs are dead, so altar spawns do not mix with uncleared rares.",
+        "If you are trying to avoid the boss on HC, do not accidentally make the map rare with two or more rare affixes.",
+        "Before entering the central area, refresh flasks and cooldowns; the altar route can bait you into starting the boss check tired."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -93,9 +94,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Follow Azmerian wisps at your own pace; do not chase them through uncleared mountain bends on a HC character.",
+        "Plan for King in the Mists control effects and Brambleghast area denial in the same run, so avoid recovery and movement penalties.",
+        "If both bosses pressure the same space, kite back through cleared ground rather than trying to finish one during overlap."
       ],
       "tags": [
         "multi-boss"
@@ -119,9 +120,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Give Yaota room and avoid standing in lingering swamp effects while trying to finish the boss quickly.",
+        "In Backwash's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters.",
+        "In Backwash's forest sections, clear edges first because trees can hide monsters and ground effects near the center."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -142,9 +143,9 @@
         "Boss encounter: Veynar, the Frostbane."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Veynar as a cold burst check; bring freeze/chill answers and do not add reduced recovery on first clears.",
+        "Use the first Bastille clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Bastille's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -167,9 +168,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "The narrow linear route is dangerous with fast rares; pull packs backward until you have room to dodge Gorian-style slams.",
+        "Do not add extra projectiles or monster speed while learning this map, because the corridors remove many sidestep options.",
+        "Keep movement skill charges for escaping body-blocks instead of spending them to speed through unopened passages."
       ],
       "tags": [
         "linear",
@@ -194,9 +195,9 @@
         "Open sightlines can layer projectiles or fast rare pressure from several angles."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Use the open Hunting Grounds layout to fight diagonally at screen edge, not in the middle where new packs can join from several sides.",
+        "The Black Crow is safer when the surrounding field is fully cleared; do not drag boss movement into unexplored grass.",
+        "Open maps reward patience in HC: circle the edge, make a clean retreat lane, then sweep inward."
       ],
       "tags": [
         "open"
@@ -220,9 +221,9 @@
         "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Finish the tower on modest mods and spend the Tablet value on adjacent open maps if your character is still gearing.",
+        "Expect Gressor-Kul to be the real risk; do not let the Atlas reveal objective make you enter the arena with empty flasks.",
+        "Grass terrain is readable, so use that advantage to pre-clear before touching any optional content."
       ],
       "tags": [
         "tower"
@@ -246,9 +247,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Swamp visibility and Grudgelash's ent theme make lingering ground effects easy to miss; keep fights moving across already-cleared mud.",
+        "Avoid stacking slowing ground, monster speed, and reduced recovery in this map, because bog layouts punish delayed disengage.",
+        "Clear around the boss approach first so you can back out without pulling extra swamp packs."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -269,9 +270,9 @@
         "Boss encounter: The Ravenous Fang."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Assume The Ravenous Fang can punish close-range greed; keep a defensive cooldown for the last third of the fight.",
+        "Use the first Caldera clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Caldera's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -292,9 +293,9 @@
         "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Clear it like a claim objective: low-risk mods, full area sweep, then leave once the hideout is unlocked.",
+        "No boss means rares are the danger; read rare modifiers before committing in canal choke points.",
+        "Do not spend valuable tablets or risky waystones on a map whose main reward is claiming the hideout."
       ],
       "tags": [
         "hideout",
@@ -318,9 +319,9 @@
         "Boss encounter: Morvak, the Infernal."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Avoid fire damage and monster speed stacks against Morvak until your fire mitigation feels comfortable.",
+        "In Canyon's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Canyon clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -341,8 +342,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Caer Tarth, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Caer Tarth clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Caer Tarth's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -364,9 +366,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "This is a wealth map, not a toughness test; do not risk a HC character by rolling damage mods just to amplify gold value.",
+        "Torrek is the only listed boss threat, so enter with a single-target setup ready instead of a pure clear-speed loadout.",
+        "Because item drops convert to gold, treat loot pauses as unnecessary exposure and keep moving until the area is safe."
       ],
       "tags": [
         "unique"
@@ -391,9 +393,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Clear Cenotes from the edge inward and keep a clean retreat lane instead of crossing the center blind.",
+        "Use the spacious terrain to kite deliberately; standing still gives away the map's main safety advantage.",
+        "In Cenotes, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [
         "open"
@@ -418,9 +420,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Channel as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Channel to progress carefully toward Jamanra; completion beats juicing.",
+        "Hask is safest with space behind you; clear the approach before stepping into boss range."
       ],
       "tags": [
         "citadel",
@@ -444,9 +446,9 @@
         "Boss encounter: Brakkus, the Juggernaut."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Brakkus as a physical slam boss and avoid mods that reduce your effective armour or recovery.",
+        "Use the first Cliffside clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Cliffside's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -467,9 +469,9 @@
         "Boss encounter: Manassam, the Serpent Queen."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Keep moving against Manassam and avoid getting pinned by poison or projectile patterns.",
+        "Use the first Confluence clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Confluence's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -491,9 +493,9 @@
         "Open sightlines can layer projectiles or fast rare pressure from several angles."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Clear Creek from the edge inward and keep a clean retreat lane instead of crossing the center blind.",
+        "Use Creek's open space from the edge inward; thin ranged packs before crossing the center.",
+        "Do not chase Tierney through uncleared forest; let the boss come back into a cleared lane."
       ],
       "tags": [
         "open"
@@ -517,9 +519,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "The linear shoreline is good for controlled pulls; keep backing through cleared beach instead of face-checking the next bend.",
+        "Rattlecage implies heavy physical burst, so avoid extra monster damage on early HC clears.",
+        "Long straight sections can invite off-screen pressure; advance in short steps and clear side pockets before the boss."
       ],
       "tags": [
         "linear"
@@ -542,8 +544,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Crux of Nothingness, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Crux of Nothingness's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Crux of Nothingness clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -566,9 +569,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Use pillar switches only after nearby tubes are empty, since the circular layout can funnel new threats into your back line.",
+        "The tube-like route makes recovery windows awkward; reroll reduced recovery or heavy speed mods before fighting Meltwax.",
+        "Keep track of opened gates so you do not panic-loop through uncleared crypt sections while retreating."
       ],
       "tags": [
         "constrained"
@@ -592,9 +595,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Decay's circular layout, track your cleared loop so retreats do not send you into fresh monsters.",
+        "Keep distance from Fungus Behemoth ground pressure and avoid fighting it in unexplored circular corridors.",
+        "In Decay's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -606,7 +609,7 @@
       ],
       "biome": "Swamp, Grass, Forest",
       "base_tileset": "",
-      "boss": "Varloch the Ashen Lord Avelyne the Withered Rose",
+      "boss": "Varloch the Ashen Lord & Avelyne the Withered Rose",
       "notes": "",
       "summary": "A Swamp, Grass, Forest biome map culminating in a fight against Varloch the Ashen Lord Avelyne the Withered Rose.",
       "hc_difficulty": "Medium",
@@ -616,9 +619,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Plan Derelict Mansion's boss as an overlap fight; separate targets and reset whenever two threats are active.",
+        "In Derelict Mansion's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters.",
+        "In Derelict Mansion's forest sections, clear edges first because trees can hide monsters and ground effects near the center."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -639,9 +642,9 @@
         "Boss encounter: Lord of the Pit."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Deserted, treat Lord of the Pit as a heavy physical/fire check and skip damage stacking until the pattern is familiar.",
+        "In Deserted's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Deserted clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -662,9 +665,9 @@
         "Boss encounter: Aurelian, the Grand Adjudicator."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Fight Aurelian patiently; adjudicator-style bosses tend to punish greedy melee uptime.",
+        "Use the first Digsite clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Digsite's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -685,8 +688,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Eastern Enigma Chamber, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Eastern Enigma Chamber clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Eastern Enigma Chamber's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -707,8 +711,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Eastern Gateway, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Eastern Gateway's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Eastern Gateway clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -729,9 +734,9 @@
         "Boss encounter: Saphira, The Dread Consort."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Enter Saphira with full flasks and save mobility for phase changes rather than routine trash clear.",
+        "Use the first Epitaph clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Epitaph's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -753,8 +758,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Estazunti's Vault, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "On Estazunti's Vault mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "Use the first Estazunti's Vault clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -775,9 +781,9 @@
         "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Felled Hideout as an unlock objective and avoid spending risky affixes on it.",
+        "Since Felled Hideout has no listed boss, rares and league mechanics are the threat; read modifiers before opening extra content.",
+        "In Felled Hideout, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [
         "hideout",
@@ -801,9 +807,9 @@
         "Boss encounter: Malgor, the Nautlord."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Keep moving around Malgor and avoid water-side corners that limit escape from nautical area attacks.",
+        "Use the first Flotsam clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Flotsam's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -825,9 +831,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "The circular tube layout can trap you between Vastweld and fresh packs; clear the ring before committing to the guardian route.",
+        "Treat the Colossal Guardian as a slam check and avoid stacking monster damage with reduced armour/evasion style penalties.",
+        "If the route loops, use the loop defensively: retreat around cleared space instead of cutting across unknown rooms."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -848,9 +854,9 @@
         "Boss encounter: Pirasha, the Forgotten Prisoner."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Give Pirasha room and avoid fortress corners where prison adds or projectiles can trap you.",
+        "In Fortress's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Fortress clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -873,9 +879,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Small islands and bridges make Riona much more dangerous; fight with a bridge behind you only if the far side is already clear.",
+        "Cold pressure plus limited footing is a bad HC mix, so avoid chill/freeze-adjacent risk and reduced recovery modifiers.",
+        "Do not chase fleeing rares across bridges; let them come back to your cleared island."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -898,9 +904,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Gothic City as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Gothic City to prepare for Iron Citadel progress, not to gamble with lethal modifier stacks.",
+        "In Gothic City, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [
         "citadel",
@@ -926,9 +932,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Grimhaven as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Grimhaven to prepare for Iron Citadel progress, not to gamble with lethal modifier stacks.",
+        "For Asinia, prioritize survival over uptime; Ezomyte city arenas can make visual clutter dangerous."
       ],
       "tags": [
         "citadel",
@@ -954,9 +960,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "The Copper Citadel region tag means the map is part of a higher-stakes atlas path; save aggressive rolls for after completion.",
+        "The linear route lets you create a safe fallback lane before Hask, so clear every side nub as you go.",
+        "Do not let the direct layout make you rush into the boss with expedition, breach, or rare pressure still alive behind you."
       ],
       "tags": [
         "citadel",
@@ -983,9 +989,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Hidden Grotto, zar Wali is safer when bone adds are cleaned up immediately rather than left to stack during boss damage.",
+        "In Hidden Grotto's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters.",
+        "On Hidden Grotto's mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1006,8 +1012,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Hilda's Campsite, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Hilda's Campsite clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Hilda's Campsite final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1028,8 +1035,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Hive, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Hive's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Hive clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1051,8 +1059,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Ice Cave, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "On Ice Cave's mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "Use the first Ice Cave clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1074,9 +1083,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Limestone Hideout as an unlock objective and avoid spending risky affixes on it.",
+        "Since Limestone Hideout has no listed boss, rares and league mechanics are the threat; read modifiers before opening extra content.",
+        "In Limestone Hideout, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [
         "hideout",
@@ -1101,9 +1110,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Use Lofty Summit's linear route to pull monsters backward through cleared ground.",
+        "Use Lofty Summit's linear route deliberately: clear forward, then retreat backward through known safe ground when pressure spikes.",
+        "Use the small side forks before Oloton as reset points; do not arrive at the boss with packs following."
       ],
       "tags": [
         "linear"
@@ -1127,9 +1136,9 @@
         "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Complete Lost Towers with conservative mods; the Atlas reveal and Tablet setup are the real reward.",
+        "Keep moving against Chetza and avoid projectile/speed modifiers that make plague volleys harder to read.",
+        "In Lost Towers's forest sections, clear edges first because trees can hide monsters and ground effects near the center."
       ],
       "tags": [
         "tower"
@@ -1153,9 +1162,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Marrow, zar Wali is safer when bone adds are cleaned up immediately rather than left to stack during boss damage.",
+        "On Marrow's mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "In Marrow's desert terrain, move diagonally and avoid long straight retreats through uncleared sand."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1177,9 +1186,9 @@
         "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Complete Mesa with conservative mods; the Atlas reveal and Tablet setup are the real reward.",
+        "Do not stand still on sand against Karash; desert bosses often punish predictable straight-line movement.",
+        "In Mesa's desert terrain, move diagonally and avoid long straight retreats through uncleared sand."
       ],
       "tags": [
         "tower"
@@ -1204,9 +1213,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Mineshaft as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Mineshaft to progress carefully toward Jamanra; completion beats juicing.",
+        "Rudja is an engineer-style hazard fight; keep the arena clear and do not fight inside stacked machinery effects."
       ],
       "tags": [
         "citadel",
@@ -1231,9 +1240,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat the small islands as separate arenas: clear one, reset flasks, then cross to the next.",
+        "Riona plus swamp crossings punishes panic movement, so keep a movement skill available before stepping onto bridges or narrow links.",
+        "Reroll stacked speed, cold, or recovery penalties on HC until the island route feels familiar."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1255,9 +1264,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Molten Vault, overcap fire mitigation for Gulzal and avoid lava or furnace ground effects even when the boss is low.",
+        "On Molten Vault mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "In Molten Vault Vaal tiles, lower your pace and avoid fighting rares on top of machinery effects."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1279,8 +1288,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "This peaceful unique map is a safe Nameless Seer stop; do not waste risky investment trying to create combat value that is not there.",
+        "Use it as a breather between dangerous atlas nodes, especially on HC characters carrying experience.",
+        "Confirm you are entering the correct unique map before swapping into any reduced-defence farming gear."
       ],
       "tags": [
         "unique",
@@ -1304,8 +1314,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Monastery of the Keepers, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Monastery of the Keepers clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Monastery of the Keepers's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1328,9 +1339,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Necropolis as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Necropolis to prepare for Iron Citadel progress, not to gamble with lethal modifier stacks.",
+        "Fight Tycho after clearing the cemetery lanes; city rares joining the boss fight are the avoidable danger."
       ],
       "tags": [
         "citadel",
@@ -1354,9 +1365,9 @@
         "Boss encounter: Ishtaroth, the Perennial."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Use Oasis's linear route to pull monsters backward through cleared ground.",
+        "Use Oasis's linear route deliberately: clear forward, then retreat backward through known safe ground when pressure spikes.",
+        "The horseshoe shape gives a natural reset route; clear one side fully before crossing the middle."
       ],
       "tags": [
         "linear"
@@ -1380,9 +1391,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Serath is safer at medium range where you can react to scaled-one lunges and projectiles.",
+        "On Ornate Chambers's mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "Use the first Ornate Chambers clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1403,9 +1414,9 @@
         "Boss encounter: Tetzcatl, the Blazing Guardian."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Overgrown, treat Tetzcatl as a fire burst check and skip extra damage mods until dodges are consistent.",
+        "In Overgrown's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Overgrown clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1428,9 +1439,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Penitentiary as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Penitentiary to prepare for Iron Citadel progress, not to gamble with lethal modifier stacks.",
+        "Do not learn Incarnation of Death with punitive mods; treat it like a build check for recovery and movement."
       ],
       "tags": [
         "citadel",
@@ -1454,8 +1465,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Plantation, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Plantation clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Plantation's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1477,9 +1489,9 @@
         "Tower value comes from Atlas reveal; do not over-roll it just for rewards."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Complete Precursor Tower with conservative mods; the Atlas reveal and Tablet setup are the real reward.",
+        "In Precursor Tower, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Precursor Tower clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [
         "tower"
@@ -1503,9 +1515,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "The extremely linear Trial of Chaos layout is efficient but unforgiving; never dash past a rare because it may cut off your only retreat.",
+        "Tetzcatl should be fought after a full reset, since the direct path can leave lingering packs close to the arena entrance.",
+        "Avoid extra speed, extra projectiles, and reduced recovery together; this map gives little lateral space to fix mistakes."
       ],
       "tags": [
         "linear"
@@ -1519,7 +1531,7 @@
       ],
       "biome": "",
       "base_tileset": "",
-      "boss": "Ignatia, the Flame Sworn Gelida, the Frost Tongue",
+      "boss": "Ignatia, the Flame-Sworn & Gelida, the Frost-Tongue",
       "notes": "",
       "summary": "A Atlas map culminating in a fight against Ignatia, the Flame Sworn Gelida, the Frost Tongue.",
       "hc_difficulty": "Medium",
@@ -1528,9 +1540,9 @@
         "Boss encounter: Ignatia, the Flame Sworn Gelida, the Frost Tongue."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Plan Razed Fields' boss as an overlap fight; separate targets and reset whenever two threats are active.",
+        "Use the first Razed Fields clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Razed Fields' final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1551,8 +1563,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Reservoir, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Reservoir's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Reservoir clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1573,9 +1586,9 @@
         "Boss encounter: Thariel, the Umbral Wraith."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Keep Thariel in visible space and avoid darkness/visual clutter that can hide wraith attacks.",
+        "Use the first Riverhold clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Riverhold's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1596,9 +1609,9 @@
         "Boss encounter: Zekoa, The Headcrusher."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Use Riverside's linear route to pull monsters backward through cleared ground.",
+        "Use Riverside's linear route deliberately: clear forward, then retreat backward through known safe ground when pressure spikes.",
+        "For Riverside, do not stand toe-to-toe with Zekoa; headcrusher-style hits should be baited and sidestepped."
       ],
       "tags": [
         "linear"
@@ -1621,9 +1634,9 @@
         "Boss encounter: Brughor, the Insatiable."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Keep Brughor away from corners and save a panic flask for the boss's burst window.",
+        "Use the first Rockpools clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Rockpools's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1644,9 +1657,9 @@
         "Boss encounter: Syvora, Daughter of the Deep."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Against Syvora, avoid water-side edges and keep moving so deep-area attacks do not pin you.",
+        "Use the first Rugosa clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Rugosa's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1667,8 +1680,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Ruins of Kingsmarch, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Ruins of Kingsmarch clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Ruins of Kingsmarch's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1689,9 +1703,9 @@
         "Boss encounter: Zekoa, The Headcrusher."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Rupture, do not stand toe-to-toe with Zekoa; headcrusher-style hits should be baited and sidestepped.",
+        "Use the first Rupture clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Rupture's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1713,9 +1727,9 @@
         "Open sightlines can layer projectiles or fast rare pressure from several angles."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Clear Rustbowl from the edge inward and keep a clean retreat lane instead of crossing the center blind.",
+        "Use Rustbowl's open space from the edge inward; thin ranged packs before crossing the center.",
+        "In Rustbowl's vast open area, do not chase isolated rares so far that multiple packs activate at once."
       ],
       "tags": [
         "open"
@@ -1738,9 +1752,9 @@
         "Boss encounter: Zahmir, the Blade Sovereign."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Zahmir is a blade burst threat; prioritize clean dodges over finishing a damage cycle.",
+        "Use the first Sacred Reservoir clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Sacred Reservoir's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1761,8 +1775,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Sanctuary, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Sanctuary's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Sanctuary clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1785,9 +1800,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "The two parallel lanes make retreat planning simple: clear one lane fully before crossing connectors into the other.",
+        "Open water-side sightlines can layer ranged attacks, so hug cleared edges instead of running down the center.",
+        "Fight The Sandstrider with the connector behind you clear, so you are not forced into unopened lane pressure."
       ],
       "tags": [
         "open"
@@ -1811,9 +1826,9 @@
         "Open sightlines can layer projectiles or fast rare pressure from several angles."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Clear Savannah from the edge inward and keep a clean retreat lane instead of crossing the center blind.",
+        "Use Savannah's open space from the edge inward; thin ranged packs before crossing the center.",
+        "In Savannah's vast open area, do not chase isolated rares so far that multiple packs activate at once."
       ],
       "tags": [
         "open"
@@ -1837,8 +1852,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Sealed Vault, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "On Sealed Vault mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "Use the first Sealed Vault clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1861,9 +1877,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Avoid speed and extra projectile rolls here; constrained terrain leaves fewer correction options.",
+        "For Seepage, corridors are safer when cleared in short pulls; do not dash into the next bend while cooldowns are down.",
+        "In Seepage's circular layout, track your cleared loop so retreats do not send you into fresh monsters."
       ],
       "tags": [
         "constrained"
@@ -1886,9 +1902,9 @@
         "No listed boss, but rare monsters and map modifiers can still create lethal spikes."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear methodically and claim it; there is no reason to add risky affixes for HC.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Shrine Hideout as an unlock objective and avoid spending risky affixes on it.",
+        "Since Shrine Hideout has no listed boss, rares and league mechanics are the threat; read modifiers before opening extra content.",
+        "In Shrine Hideout, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [
         "hideout",
@@ -1914,9 +1930,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Prioritize completion and Atlas reveal over juicing; save hard tablets for safer nearby maps.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Three triangular floors mean repeated stair transitions; pause after each floor to reset flasks before climbing.",
+        "As a tower, completion is worth more than juicing, so keep the waystone tame and move tablet pressure elsewhere.",
+        "Stormgore on an upper floor can become a no-retreat check; enter each floor as if the boss can appear immediately."
       ],
       "tags": [
         "tower"
@@ -1939,9 +1955,9 @@
         "Boss encounter: Yama The White."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Yama as an unknown burst boss and scout the fight with tame mods before adding rewards.",
+        "Use the first Sinkhole clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Sinkhole's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1962,8 +1978,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Slash, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Slash's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Slash clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -1985,8 +2002,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Slick, corridors are safer when cleared in short pulls; do not dash into the next bend while cooldowns are down.",
+        "Use the loop defensively by rotating through cleared space instead of cutting across unexplored rooms.",
+        "In Slick, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2007,9 +2025,9 @@
         "Boss encounter: Rootgrasp, the Hateful Forest."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Rootgrasp punishes stationary play; keep cutting through cleared forest instead of fighting in roots.",
+        "In Spider Woods's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Spider Woods clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2030,8 +2048,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Spring, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Spring's desert terrain, move diagonally and avoid long straight retreats through uncleared sand.",
+        "Use the first Spring clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2052,9 +2071,9 @@
         "Boss encounter: Manassa, the Serpent Queen."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Use Steaming Springs's open space from the edge inward; thin ranged packs before crossing the center.",
+        "Scout Manassa, the Serpent Queen with tame modifiers before adding damage, speed, or recovery penalties on HC.",
+        "Use the first Steaming Springs clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2075,9 +2094,9 @@
         "Boss encounter: The Shackled Horror."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Do not stand near The Shackled Horror during windups; save movement for chain or slam-style tells.",
+        "Use the first Stronghold clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Stronghold's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2099,9 +2118,9 @@
         "Open sightlines can layer projectiles or fast rare pressure from several angles."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Clear Steppe from the edge inward and keep a clean retreat lane instead of crossing the center blind.",
+        "Use Steppe's open space from the edge inward; thin ranged packs before crossing the center.",
+        "In Steppe's vast open area, do not chase isolated rares so far that multiple packs activate at once."
       ],
       "tags": [
         "open"
@@ -2115,7 +2134,7 @@
       ],
       "biome": "Desert, Mountain",
       "base_tileset": "",
-      "boss": "Lord of the Pit and The Bone Colossus",
+      "boss": "Lord of the Pit & The Bone Colossus",
       "notes": "A long rectangular map with many small passages creating a maze-like environment.",
       "summary": "A Desert, Mountain biome map. A long rectangular map with many small passages creating a maze-like environment.",
       "hc_difficulty": "High",
@@ -2126,9 +2145,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Pull packs back through cleared space instead of dashing into unopened rooms or corridors.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "The long rectangular maze is a HC trap with bad mods; mark your cleared route mentally so you do not retreat into dead ends.",
+        "Lord of the Pit plus Bone Colossus is enough boss pressure without adding monster damage or speed on first clears.",
+        "Small passages magnify ground effects and body-blocking, so pull rares back to intersections before committing."
       ],
       "tags": [
         "constrained"
@@ -2152,9 +2171,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Sump's circular layout, track your cleared loop so retreats do not send you into fresh monsters.",
+        "Brakka is safer when you avoid standing in circular swamp lanes where wither-style effects can stack.",
+        "In Sump's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2175,9 +2194,9 @@
         "Boss encounter: Tonqui, Seer of the Sun."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Bring fire/sun-pattern respect for Tonqui and leave the temple floor when large telegraphs appear.",
+        "In Sun Temple's Vaal tiles, lower your pace and avoid fighting rares on top of machinery effects.",
+        "Use the first Sun Temple clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2199,9 +2218,9 @@
         "Boss encounter: Tetzcatl, the Blazing Guardian."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For The Assembly, treat Tetzcatl as a fire burst check and skip extra damage mods until dodges are consistent.",
+        "In The Assembly's Vaal tiles, lower your pace and avoid fighting rares on top of machinery effects.",
+        "Use the first The Assembly clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2224,8 +2243,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In The Burning Monolith, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Treat The Burning Monolith as a build-check map: skip reduced recovery plus multiple monster damage mods on HC.",
+        "Before The Burning Monolith's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2249,9 +2269,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Jamanra as a pinnacle-style progression boss, not a normal map boss; practice the Act 2 pattern before risking a HC attempt.",
+        "Do not enter with experimental gear, uncapped lightning mitigation, or untested flask setup.",
+        "Run the surrounding Copper Citadel maps conservatively so the citadel attempt happens with full resources and focus."
       ],
       "tags": [
         "citadel",
@@ -2276,9 +2296,9 @@
         "Boss encounter: Random Map Boss."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Because the boss can vary, enter with generic defenses online and avoid mods your weakest matchup cannot handle.",
+        "In The Ezomyte Megaliths's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first The Ezomyte Megaliths clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2302,9 +2322,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Read rare modifiers before committing; skip combinations your build cannot disengage from.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Mirrored rare monsters are the map; read every dangerous rare before engaging and skip if several stack incompatible mods.",
+        "The rarity/rare-count reward is not worth HC gambling with reduced recovery or extra monster damage.",
+        "Fight rares one pack at a time and leave room to disengage, because mirrored pressure can double mistakes quickly."
       ],
       "tags": [
         "unique",
@@ -2331,9 +2351,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Count Geonor is a progression wall for underprepared HC characters; overcap cold mitigation and practice clean movement first.",
+        "Avoid entering after a long mapping session when focus is low; citadel bosses punish fatigue more than ordinary maps.",
+        "Clear your inventory and flask setup before opening, because you want no distractions during the boss attempt."
       ],
       "tags": [
         "citadel",
@@ -2358,9 +2378,9 @@
         "Boss encounter: Manoki, the Chosen."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Treat Manoki as a special unique-map boss and scout the mechanics before adding HC pressure.",
+        "Use the first The Jade Isles clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before The Jade Isles's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2384,9 +2404,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Summoning up to nine boss waves is an endurance check; stop adding waves if flask sustain or cooldown rhythm feels strained.",
+        "Do not run this on HC with damage, speed, or recovery penalties until each possible random boss is comfortable alone.",
+        "Between waves, reset position deliberately instead of accepting the next spawn wherever the last boss died."
       ],
       "tags": [
         "unique",
@@ -2411,8 +2431,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In The Matriarch Halls, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first The Matriarch Halls clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before The Matriarch Halls's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2434,8 +2455,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Complete The Origin Tower with conservative mods; the Atlas reveal and Tablet setup are the real reward.",
+        "In The Origin Tower, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first The Origin Tower clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2457,8 +2479,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In The Patriarch Halls, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first The Patriarch Halls clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before The Patriarch Halls's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2482,9 +2505,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Read rare modifiers before committing; skip combinations your build cannot disengage from.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Essence rares upgrade the imprisoned boss, so choose which crystals to release rather than opening everything by habit.",
+        "Kill freed rares in cleared cave space before touching another essence; stacked rare modifiers are the real HC danger.",
+        "If the boss already has scary modifiers, leave optional essences alone and take the completion."
       ],
       "tags": [
         "unique",
@@ -2512,9 +2535,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Doryani is a major progression boss; treat the map like a bossing session with capped elemental defenses and a practiced movement plan.",
+        "The Vaal machinery tileset can hide hazards under spell effects, so lower visual clutter and avoid greed during beam or area-denial patterns.",
+        "Do not combine this attempt with risky tablet or waystone pressure on HC."
       ],
       "tags": [
         "citadel",
@@ -2541,8 +2564,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Darkness changes the map's pacing; follow visibility and Omen altars carefully instead of sprinting toward rewards.",
+        "Several powerful bosses can be found here, so assume any detour can become a serious fight and keep flasks full.",
+        "On HC, skip altar paths that pull you through uncleared darkness while carrying dangerous map modifiers."
       ],
       "tags": [
         "unique"
@@ -2566,8 +2590,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In The Well of Souls, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first The Well of Souls clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before The Well of Souls's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2589,8 +2614,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In The Withered Willow, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first The Withered Willow clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before The Withered Willow's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2612,8 +2638,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Trenches, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Trenches's swamp terrain, reroll stacked slow, monster speed, and recovery penalties on important HC characters.",
+        "Use the first Trenches clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2635,8 +2662,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "The experience bonus is tempting, but the monster level penalty can make overconfidence lethal; run it only when your defenses outclass the tier.",
+        "Do not add dangerous modifiers just because the map is for XP; dying deletes the entire point of the run.",
+        "Clear slowly enough to preserve flask charges, especially if your build depends on recovery on kill."
       ],
       "tags": [
         "unique"
@@ -2661,9 +2689,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Treat Vaal City as progression content, not routine mapping; bring a boss-ready setup and skip risky map pressure.",
+        "Use Stone Citadel region maps to set up Doryani attempts; avoid exhausting your character on risky rolls first.",
+        "Keep poison/chaos mitigation in mind for Viper Napuatzi and do not fight in cramped Vaal corners."
       ],
       "tags": [
         "citadel",
@@ -2688,9 +2716,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Vaal Foundry, overcap fire mitigation for Gulzal and avoid lava or furnace ground effects even when the boss is low.",
+        "On Vaal Foundry's mountain terrain, scout bends before spending mobility skills because burst threats can wait around corners.",
+        "In Vaal Foundry's Vaal tiles, lower your pace and avoid fighting rares on top of machinery effects."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2713,9 +2741,9 @@
         "Cave or mountain tiles can hide threats around corners and choke points."
       ],
       "tips": [
-        "Run this only on a character that already handles high-tier boss damage comfortably.",
-        "Avoid stacking monster damage, speed, reduced recovery, or extra projectiles on first clears.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Rare and magic chests are the reward, so clear around each chest before opening it and avoid chain-opening under pressure.",
+        "Rarity value is already built in; HC characters should prioritize safe chest access over extra damage mods.",
+        "If the Vaal City route gets cramped, pull monsters away from chest clusters before interacting."
       ],
       "tags": [
         "citadel",
@@ -2741,9 +2769,9 @@
         "Boss encounter: Lord of the Pit."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "For Wayward Isle, treat Lord of the Pit as a heavy physical/fire check and skip damage stacking until the pattern is familiar.",
+        "Use the first Wayward Isle clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Wayward Isle's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2767,10 +2795,9 @@
         "Wet terrain and islands can limit clean retreat paths."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Clear in arcs and keep a known retreat lane instead of crossing the center blind.",
-        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Two Gorian bosses make this a positioning check; separate them with terrain and do not tunnel one while the other winds up.",
+        "The open swamp gives room, so use it: kite in broad circles through cleared ground rather than standing between both bosses.",
+        "Avoid extra area damage or monster speed until your build can survive overlapping Moving Earth attacks."
       ],
       "tags": [
         "open",
@@ -2794,8 +2821,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Western Enigma Chamber, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "Use the first Western Enigma Chamber clear to learn pack flow, then scale rewards once the route feels predictable.",
+        "Before Western Enigma Chamber's final section, refill flasks, wait for cooldowns, and keep a known escape route behind you."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2816,8 +2844,9 @@
         "Boss data is missing or unconfirmed, so assume unknown burst windows."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "In Western Gateway, boss data is not confirmed, so treat rares and league mechanics as the lethal checks and keep the first run tame.",
+        "In Western Gateway's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Western Gateway clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2838,9 +2867,9 @@
         "Boss encounter: Connal, the Tormented."
       ],
       "tips": [
-        "Keep map mods modest while learning the layout, then scale rewards once it feels routine.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready.",
-        "For HC, reroll combinations that reduce recovery or add several monster damage multipliers."
+        "Keep Connal visible in the trees and avoid dragging the tormented boss through uncleared forest packs.",
+        "In Willow's forest sections, clear edges first because trees can hide monsters and ground effects near the center.",
+        "Use the first Willow clear to learn pack flow, then scale rewards once the route feels predictable."
       ],
       "tags": [],
       "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
@@ -2863,9 +2892,9 @@
         "Damage, speed, and extra projectile modifiers can turn this into a skip for undergeared HC builds."
       ],
       "tips": [
-        "Start with conservative mods until you know the layout and boss pattern.",
-        "Separate bosses whenever possible and reset between phases if recovery is pressured.",
-        "Treat the boss arena as the real map check; enter with flasks, cooldowns, and escape skill ready."
+        "Two Tierney bosses are safest when handled one at a time; pull back if both become active in the same screen.",
+        "Dense forest edges can hide adds, so clear around the arena before committing to the duo.",
+        "Skip damage-plus-speed rolls on HC until the double-boss rhythm feels routine."
       ],
       "tags": [
         "multi-boss"
