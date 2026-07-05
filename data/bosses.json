@@ -1,0 +1,531 @@
+{
+  "source": "https://poe2db.tw/us/Waystones; https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/; https://www.pcgamer.com/games/rpg/path-of-exile-2s-biggest-expansion-ever-reworks-its-entire-post-campaign-grind-for-new-and-returning-players-alike/",
+  "generated_from": "PoE2DB Waystones and public endgame overview articles checked 2026-07-05; HC notes are curated from access method, boss role, map context, and known endgame mechanics. Video links are YouTube guide searches rather than endorsed single videos.",
+  "bosses": [
+    {
+      "name": "The Arbiter of Ash",
+      "aliases": ["Arbiter", "Arbiter of Ash", "Burning Monolith"],
+      "category": "Pinnacle",
+      "access": "Burning Monolith after collecting Crisis Fragments from the Iron, Copper, and Stone Citadels.",
+      "summary": "Primary endgame pinnacle boss with multi-phase arena pressure and lethal telegraphed attacks.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Pinnacle scaling and arena-wide patterns punish missed movement.",
+        "Crisis Fragments are expensive enough that failed learning pulls hurt progression.",
+        "Damage windows can bait greedy uptime during one-shot telegraphs."
+      ],
+      "tips": [
+        "Do not make the first HC attempt blind; watch patterns and practice the movement plan first.",
+        "Enter with capped and overcapped elemental defenses, ailment answers, and a setup built for bossing rather than mapping.",
+        "Prioritize living through each phase over forcing damage; leave the arena if focus or flasks are compromised."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Ash+boss+guide"
+    },
+    {
+      "name": "The Arbiter of Divinity",
+      "aliases": ["Arbiter of Divinity", "Origin Tower boss", "Origin Tower"],
+      "category": "Origin Tower / Endgame storyline",
+      "access": "The Origin Tower.",
+      "summary": "Major storyline boss tied to the current endgame tower route.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Endgame storyline boss pressure with limited public HC familiarity.",
+        "Tower progression can encourage rushing into the fight after several maps.",
+        "Unknown or evolving mechanics are especially dangerous for HC attempts."
+      ],
+      "tips": [
+        "Scout the fight on softcore/video first and treat the first HC pull as a survival rehearsal.",
+        "Do not enter after exhausting flasks or attention on the tower path; reset before the boss.",
+        "Avoid experimenting with new gear, passives, or keybinds on the character that opens the attempt."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Divinity+boss+guide"
+    },
+    {
+      "name": "Count Geonor",
+      "aliases": ["Geonor", "Geonor, the Putrid Wolf", "Iron Citadel boss"],
+      "category": "Citadel",
+      "access": "The Iron Citadel.",
+      "summary": "Citadel version of the Act 1 boss; part of the Crisis Fragment path toward the Arbiter of Ash.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Cold and corruption-themed phase pressure can punish poor movement.",
+        "Citadel attempts are progression-critical and should not be treated as ordinary maps.",
+        "Wolf phase mobility can catch builds with weak recovery or slow reactions."
+      ],
+      "tips": [
+        "Practice the campaign Geonor pattern and overprepare cold mitigation before the citadel version.",
+        "Enter with a bossing setup, not a clear-speed setup, and avoid risky tablet or map pressure.",
+        "If adds or ground effects clutter the arena, reset position instead of tunneling damage."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Count+Geonor+boss+guide"
+    },
+    {
+      "name": "Jamanra, the Abomination",
+      "aliases": ["Jamanra", "Copper Citadel boss"],
+      "category": "Citadel",
+      "access": "The Copper Citadel.",
+      "summary": "Citadel version of the Act 2 boss and one of the Crisis Fragment guardians.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Large elemental patterns and phase transitions can cover the arena.",
+        "The fight blocks Ritual at the boss area, so the boss itself is the main check.",
+        "Underprepared characters can be clipped by familiar campaign mechanics at endgame values."
+      ],
+      "tips": [
+        "Bring strong lightning and elemental mitigation and review Jamanra's campaign tells before HC.",
+        "Use surrounding Copper Citadel region maps to prepare, not to gamble with extra danger.",
+        "Do not chase damage during large arena patterns; move first, attack second."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Jamanra%2C+the+Abomination+boss+guide"
+    },
+    {
+      "name": "Doryani, Royal Thaumaturge",
+      "aliases": ["Doryani", "Doryani's Triumph", "Stone Citadel boss"],
+      "category": "Citadel",
+      "access": "The Stone Citadel.",
+      "summary": "Citadel version of the Act 3 Vaal boss and a Crisis Fragment guardian.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Vaal machinery effects can make telegraphs visually busy.",
+        "Beam and area-denial patterns punish standing still or finishing long animations.",
+        "Citadel stakes make blind learning especially expensive."
+      ],
+      "tips": [
+        "Treat Doryani as a dedicated bossing session with capped elemental defenses and practiced movement.",
+        "Lower visual clutter where possible and do not fight through overlapping machinery effects.",
+        "Avoid combining the attempt with extra atlas pressure; survival matters more than reward scaling."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Doryani%2C+Royal+Thaumaturge+boss+guide"
+    },
+    {
+      "name": "Precursor Separator",
+      "aliases": ["Separator", "Western Gateway boss"],
+      "category": "Gateway",
+      "access": "Western Gateway.",
+      "summary": "Gateway boss from the endgame storyline path.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Gateway bosses are progression checks with less familiar patterns than normal map bosses.",
+        "Mechanical or precursor-themed effects can create sudden burst windows.",
+        "The fight may appear after a map route that has already spent flasks and focus."
+      ],
+      "tips": [
+        "Reset before entering the boss space and keep movement skills for mechanic dodges.",
+        "Treat the first clear as a scouting attempt; avoid damage and recovery penalties.",
+        "If the boss creates constructs or hazards, kill or reposition around them before committing damage."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Precursor+Separator+boss+guide"
+    },
+    {
+      "name": "Precursor Refiner",
+      "aliases": ["Refiner", "Eastern Gateway boss"],
+      "category": "Gateway",
+      "access": "Eastern Gateway.",
+      "summary": "Gateway boss from the endgame storyline path.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Gateway progression can hide boss mechanics behind a normal map rhythm.",
+        "Refiner-style hazards may punish standing inside repeated ground effects.",
+        "Low public familiarity increases blind-HC risk."
+      ],
+      "tips": [
+        "Fight at medium range until the pattern is clear rather than facetanking early tells.",
+        "Keep the arena edge known and avoid getting pinned by machinery or ground effects.",
+        "Skip risky waystone combinations until you have one clean kill recorded."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Precursor+Refiner+boss+guide"
+    },
+    {
+      "name": "Phyx, Sentinel of the Spark",
+      "aliases": ["Phyx", "Patriarch Halls boss"],
+      "category": "Endgame storyline",
+      "access": "The Patriarch Halls.",
+      "summary": "Sentinel boss associated with the Patriarch Halls quest area.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Spark-themed attacks imply fast elemental projectile pressure.",
+        "Quest-area boss attempts can be under-scouted compared with farmed pinnacles.",
+        "Arena pressure may punish builds with slow recovery after shocks or hits."
+      ],
+      "tips": [
+        "Bring shock and lightning answers before committing a HC character.",
+        "Move diagonally through projectile patterns instead of retreating in a straight line.",
+        "Keep damage windows short until you know which attacks can overlap."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Phyx%2C+Sentinel+of+the+Spark+boss+guide"
+    },
+    {
+      "name": "Phya, Sentinel of the Cradle",
+      "aliases": ["Phya", "Matriarch Halls boss"],
+      "category": "Endgame storyline",
+      "access": "The Matriarch Halls.",
+      "summary": "Sentinel boss associated with the Matriarch Halls quest area.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Sentinel mechanics can layer area denial with direct attacks.",
+        "Quest-area boss data may be incomplete or change with patches.",
+        "Poor positioning can make the arena feel much smaller than it is."
+      ],
+      "tips": [
+        "Scout the arena first and keep an exit lane before starting long casts or channels.",
+        "Avoid reduced recovery and extra monster damage until the pattern is familiar.",
+        "If cradle or construct hazards spawn, reposition first and resume damage after the floor is readable."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Phya%2C+Sentinel+of+the+Cradle+boss+guide"
+    },
+    {
+      "name": "The Aberration",
+      "aliases": ["Aberration", "Caer Tarth boss"],
+      "category": "Endgame storyline",
+      "access": "Caer Tarth.",
+      "summary": "Powerful endgame quest boss tied to the current atlas storyline.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Powerful boss marker indicates a fight above normal map-boss expectations.",
+        "Aberration-style attacks may be visually chaotic or corruption-themed.",
+        "Experience lock suggests a special encounter rather than a routine farming map."
+      ],
+      "tips": [
+        "Treat this as a real boss attempt even if it appears inside an atlas quest chain.",
+        "Do not learn it with recovery penalties or multiple damage modifiers active.",
+        "Keep enough burst control to handle adds or spawned hazards without losing boss visibility."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Aberration+boss+guide"
+    },
+    {
+      "name": "The Bodach",
+      "aliases": ["Bodach", "Ruins of Kingsmarch boss"],
+      "category": "Endgame storyline",
+      "access": "Ruins of Kingsmarch.",
+      "summary": "Powerful boss from the Ruins of Kingsmarch endgame route.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Powerful boss marker and no experience change indicate a special encounter.",
+        "Kingsmarch ruins can make ground effects and add pressure hard to read.",
+        "Unknown burst windows are dangerous for HC on first contact."
+      ],
+      "tips": [
+        "Enter with full flasks and a conservative map setup; do not treat it like a regular ruins boss.",
+        "Clear any surrounding pressure before engaging so the fight remains readable.",
+        "Use short test damage windows until the boss's largest attack is identified."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Bodach+boss+guide"
+    },
+    {
+      "name": "The Raven Trickster",
+      "aliases": ["Raven Trickster", "Withered Willow boss"],
+      "category": "Endgame storyline",
+      "access": "The Withered Willow.",
+      "summary": "Powerful endgame boss with trickster-style pressure.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Trickster-style bosses can punish target fixation and poor arena awareness.",
+        "Withered Willow context suggests dangerous ground or debuff pressure.",
+        "Special boss marker raises the baseline risk above normal map bosses."
+      ],
+      "tips": [
+        "Keep the boss visible and avoid chasing illusions or movement into uncleared space.",
+        "Bring debuff and recovery answers before trying the fight on an important HC character.",
+        "If the boss disappears or relocates, reset position rather than attacking blind."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Raven+Trickster+boss+guide"
+    },
+    {
+      "name": "Vessel of Kulemak",
+      "aliases": ["Kulemak", "Well of Souls boss"],
+      "category": "Endgame storyline",
+      "access": "The Well of Souls.",
+      "summary": "Powerful endgame boss tied to soul-themed atlas progression.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Soul-themed mechanics may involve adds, debuffs, or repeated arena pressure.",
+        "Powerful boss marker means normal map-boss instincts may understate the danger.",
+        "The fight can become risky if recovery is pressured for too long."
+      ],
+      "tips": [
+        "Keep add control and single-target damage both available; do not enter with a pure mapper setup.",
+        "Reset whenever the floor becomes unreadable instead of trying to finish a damage cycle.",
+        "Avoid reduced recovery and extra damage combinations until the fight is understood."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Vessel+of+Kulemak+boss+guide"
+    },
+    {
+      "name": "Medved, the Fallen Seer",
+      "aliases": ["Medved", "Blighted Bog boss"],
+      "category": "Expedition boss",
+      "access": "Blighted Bog expedition-style endgame area.",
+      "summary": "One of the powerful expedition island bosses listed in the endgame map set.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Expedition remnants can make the boss far more dangerous than its baseline.",
+        "Bog terrain can restrict movement and hide lingering ground effects.",
+        "Experience lock and powerful boss markers indicate a serious encounter."
+      ],
+      "tips": [
+        "Read remnant modifiers before starting; never give the boss immunities or damage stacks your build cannot handle.",
+        "Clear the route and fight from dry, open ground where possible.",
+        "If remnants make recovery or resistances unreliable, skip the boss on HC."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Medved%2C+the+Fallen+Seer+boss+guide"
+    },
+    {
+      "name": "Vorana, Last to Fall",
+      "aliases": ["Vorana", "Algid Pasture boss"],
+      "category": "Expedition boss",
+      "access": "Algid Pasture expedition-style endgame area.",
+      "summary": "Powerful expedition boss encounter with HC danger from remnant scaling.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Expedition modifiers can turn manageable attacks into lethal hits.",
+        "Cold pasture context can combine movement pressure with elemental danger.",
+        "Vorana-style bosses tend to reward patience and punish greed."
+      ],
+      "tips": [
+        "Choose remnants for loot only after checking they do not brick your defenses.",
+        "Keep space to move before detonating toward the boss marker.",
+        "If the boss gains too much damage or speed from remnants, abandon the attempt."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Vorana%2C+Last+to+Fall+boss+guide"
+    },
+    {
+      "name": "Uhtred, the Stardrinker",
+      "aliases": ["Uhtred", "Stardrinker", "Secluded Temple boss"],
+      "category": "Expedition boss",
+      "access": "Secluded Temple expedition-style endgame area.",
+      "summary": "Powerful expedition boss in a secluded temple encounter.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Expedition remnant choices can sharply increase boss damage or disable defenses.",
+        "Temple arenas can be visually busy and punish standing in layered effects.",
+        "Powerful boss marker makes this a step above normal map bosses."
+      ],
+      "tips": [
+        "Do not chain explosives into the boss marker until the surrounding path is clear.",
+        "Avoid remnants that reduce your recovery or pierce your primary mitigation.",
+        "Fight with enough room to leave star or temple effects before resuming damage."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Uhtred%2C+the+Stardrinker+boss+guide"
+    },
+    {
+      "name": "Olroth, Origin of the Fall",
+      "aliases": ["Olroth", "Expedition pinnacle"],
+      "category": "Expedition pinnacle",
+      "access": "Expedition logbooks and endgame expedition boss routes.",
+      "summary": "Expedition pinnacle boss reached through logbook/endgame expedition progression.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Expedition remnants and boss scaling can stack into lethal combinations.",
+        "The fight is valuable and tempting to over-invest, which increases HC risk.",
+        "Boss patterns punish builds that cannot recover while moving."
+      ],
+      "tips": [
+        "Plan the expedition chain around safety first; do not path through remnant mods that counter your build.",
+        "Bring a true boss setup with reliable recovery outside of kill chains.",
+        "If the logbook route creates bad modifiers, save the character and skip the boss."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Olroth%2C+Origin+of+the+Fall+boss+guide"
+    },
+    {
+      "name": "The King in the Mists",
+      "aliases": ["King in the Mists", "Ritual pinnacle", "Crux of Nothingness boss"],
+      "category": "Ritual pinnacle",
+      "access": "Ritual progression and Crux of Nothingness.",
+      "summary": "Ritual pinnacle boss with dangerous control and arena mechanics.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Ritual-style re-fights and control effects can snowball quickly.",
+        "The boss is listed as a powerful map boss in Crux of Nothingness.",
+        "Mist and arena effects can reduce visibility and punish panic movement."
+      ],
+      "tips": [
+        "Bring answers to slows, control, and recovery pressure before attempting on HC.",
+        "Do not chase the boss through mist or adds; reset to readable space first.",
+        "Avoid damage mods while learning the ritual phase order and arena tells."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+King+in+the+Mists+boss+guide"
+    },
+    {
+      "name": "It That Was Tul",
+      "aliases": ["Tul", "Hive of Frozen Lairs boss"],
+      "category": "Breach endgame",
+      "access": "Hive of Frozen Lairs.",
+      "summary": "Breach-themed powerful boss encounter tied to Tul.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Breach encounters combine boss danger with high monster density.",
+        "Frozen Lairs imply cold pressure and movement restriction risk.",
+        "Powerful boss marker indicates the fight can spike above normal mapping."
+      ],
+      "tips": [
+        "Bring freeze/chill answers and do not fight while surrounded by breach adds.",
+        "Clear enough space before pushing damage so cold ground and monsters do not box you in.",
+        "Avoid extra monster speed until you can comfortably control breach density."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+It+That+Was+Tul+boss+guide"
+    },
+    {
+      "name": "It That Was Esh",
+      "aliases": ["Esh", "Hive of Sparking Rifts boss"],
+      "category": "Breach endgame",
+      "access": "Hive of Sparking Rifts.",
+      "summary": "Breach-themed powerful boss encounter tied to Esh.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Breach density can overlap with lightning projectile or rift pressure.",
+        "Sparking Rifts imply shock and lightning burst risk.",
+        "Boss visibility can suffer when breach monsters flood the arena."
+      ],
+      "tips": [
+        "Overprepare lightning and shock mitigation before attempting on HC.",
+        "Thin breach monsters before focusing the boss so projectiles stay readable.",
+        "Move diagonally across rift pressure instead of backing straight into fresh spawns."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+It+That+Was+Esh+boss+guide"
+    },
+    {
+      "name": "Xesht, We That Are One",
+      "aliases": ["Xesht", "Breach pinnacle"],
+      "category": "Breach pinnacle",
+      "access": "Breachstone created from Breach Splinters.",
+      "summary": "Breach pinnacle boss reached after farming Breach Splinters.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Breach boss pressure rewards high damage but punishes poor movement.",
+        "Dense adds and arena mechanics can overwhelm weak recovery.",
+        "The encounter costs Breachstone access, tempting players to overforce attempts."
+      ],
+      "tips": [
+        "Do not attempt on HC until your build can clear dense breach packs without panic movement.",
+        "Bring reliable recovery that does not depend entirely on killing small monsters.",
+        "Learn the major telegraphs before scaling breach difficulty for atlas points."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Xesht%2C+We+That+Are+One+boss+guide"
+    },
+    {
+      "name": "Kosis",
+      "aliases": ["Kosis, the Revelation", "Simulacrum Kosis"],
+      "category": "Delirium / Simulacrum",
+      "access": "Simulacrum progression from Delirium Splinters.",
+      "summary": "One of the major Simulacrum bosses from Delirium endgame.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Delirium scaling increases monster pressure while boss mechanics are active.",
+        "Kosis can punish low chaos/elemental mitigation and poor arena control.",
+        "Simulacrum waves can drain flasks before the boss becomes the main threat."
+      ],
+      "tips": [
+        "Do not enter late waves without enough flask sustain and ailment coverage.",
+        "Prioritize wave control before boss damage; extra monsters make Kosis far more dangerous.",
+        "Leave greed at the door on HC; Simulacrum rewards are not worth a weak recovery setup."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Kosis+boss+guide"
+    },
+    {
+      "name": "Omniphobia",
+      "aliases": ["Omniphobia, Fear Manifest", "Simulacrum Omniphobia"],
+      "category": "Delirium / Simulacrum",
+      "access": "Simulacrum progression from Delirium Splinters.",
+      "summary": "One of the major Simulacrum bosses from Delirium endgame.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Simulacrum wave density can overlap boss pressure with constant monster attacks.",
+        "Fear-themed lunges and burst windows punish standing still.",
+        "Delirium fog makes visual clarity worse as difficulty rises."
+      ],
+      "tips": [
+        "Keep moving in controlled arcs and avoid getting trapped against Simulacrum edges.",
+        "Save burst and defensive cooldowns for boss windows rather than spending them on normal waves.",
+        "Stop pushing waves if recovery, visibility, or focus starts to degrade."
+      ],
+      "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Omniphobia+boss+guide"
+    },
+    {
+      "name": "The Trialmaster",
+      "aliases": ["Trialmaster", "Ultimatum boss"],
+      "category": "Ultimatum",
+      "access": "Ultimatum / Inscribed Ultimatum endgame progression.",
+      "summary": "Ultimatum boss where prior trial choices can make the final fight much more dangerous.",
+      "hc_difficulty": "Extreme",
+      "risk_score": 5,
+      "threats": [
+        "Ultimatum modifiers stack danger before the boss even starts.",
+        "Arena constraints punish builds that need lots of setup room.",
+        "Greedy trial choices can remove recovery windows or add lethal overlap."
+      ],
+      "tips": [
+        "Choose Ultimatum modifiers as if the boss is guaranteed; do not build a brick wall for yourself.",
+        "Skip choices that counter your recovery or movement on HC even if the reward looks good.",
+        "Enter the boss with cooldowns ready and enough flask charges to survive a long phase."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Trialmaster+boss+guide"
+    },
+    {
+      "name": "Zarokh, the Temporal",
+      "aliases": ["Zarokh", "Trial of the Sekhemas boss", "Sekhemas boss"],
+      "category": "Trial of the Sekhemas",
+      "access": "Trial of the Sekhemas / Djinn Barya progression.",
+      "summary": "Trial boss where time-themed mechanics and trial attrition can make HC attempts risky.",
+      "hc_difficulty": "High",
+      "risk_score": 4,
+      "threats": [
+        "Trial attrition can leave the character weaker before the boss begins.",
+        "Time-themed mechanics punish delayed reactions and poor positioning.",
+        "Mistakes can be expensive because the run has already consumed time and resources."
+      ],
+      "tips": [
+        "Preserve defenses during the trial; do not arrive at Zarokh with your safety layers exhausted.",
+        "Learn the time mechanics before attempting on a character you are unwilling to lose.",
+        "Favor consistent movement and recovery over maximum damage during the final phase."
+      ],
+      "source_url": "https://poe2db.tw/us/Waystones",
+      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Zarokh%2C+the+Temporal+boss+guide"
+    }
+  ]
+}

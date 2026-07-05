@@ -29,7 +29,9 @@ start - Start the bot
 help - Show help
 map - Look up a map by name
 maps - List known maps
-reload - Reload map data
+boss - Look up a boss by name
+bosses - List known bosses
+reload - Reload map and boss data
 ```
 
 ## 2. Deploy Free On Render
@@ -48,6 +50,7 @@ Use a Render Web Service, not a Background Worker.
 TELEGRAM_BOT_TOKEN=<token from BotFather>
 TELEGRAM_WEBHOOK_URL=https://poe2-map-bot.onrender.com
 MAP_DATA_PATH=/app/data/maps.json
+BOSS_DATA_PATH=/app/data/bosses.json
 LOG_LEVEL=INFO
 ```
 
@@ -66,7 +69,7 @@ TELEGRAM_WEBHOOK_PATH=telegram-a-long-random-secret
 Starting PoE 2 map bot with webhook
 ```
 
-10. Open the bot in Telegram and send `/start`, then `/map Augury`.
+10. Open the bot in Telegram and send `/start`, then `/map Augury` or `/boss Arbiter`.
 
 ## Important Free-Tier Caveat
 

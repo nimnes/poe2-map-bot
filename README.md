@@ -1,13 +1,15 @@
 # PoE 2 HC Map Telegram Bot
 
-A small Telegram bot that answers map-name queries with a Path of Exile 2 map summary, a hardcore risk rating, and practical tips.
+A small Telegram bot that answers Path of Exile 2 map and boss queries with a summary, a hardcore risk rating, and practical tips.
 
 ## Features
 
 - `/map <name>` returns the best matching map profile.
+- `/boss <name>` returns the best matching boss guide.
 - Plain messages such as `Augury` also work.
 - `/maps` lists known maps.
-- `/reload` reloads `data/maps.json` without restarting the bot.
+- `/bosses` lists known bosses.
+- `/reload` reloads `data/maps.json` and `data/bosses.json` without restarting the bot.
 - Fuzzy matching helps with partial names and typos.
 - `scripts/update_maps_from_wiki.py` can refresh map names from the Fextralife maps page.
 
@@ -24,6 +26,13 @@ Edit `.env` and set your Telegram bot token:
 
 ```bash
 TELEGRAM_BOT_TOKEN=123456:your-token
+```
+
+Optional data path overrides:
+
+```bash
+MAP_DATA_PATH=data/maps.json
+BOSS_DATA_PATH=data/bosses.json
 ```
 
 Create a bot token with Telegram's BotFather, then run:
@@ -46,6 +55,8 @@ The updater preserves your existing summaries, difficulty ratings, and tips. New
 
 ## Data Format
 
+The bot loads map data from `data/maps.json` and boss data from `data/bosses.json`.
+
 Each map entry includes wiki table facts plus HC notes:
 
 ```json
@@ -63,6 +74,24 @@ Each map entry includes wiki table facts plus HC notes:
   "tips": ["Scout corners before committing.", "Skip damage mods if your recovery is weak."],
   "tags": ["constrained"],
   "source_url": "https://pathofexile2.wiki.fextralife.com/Maps"
+}
+```
+
+Each boss entry includes access notes, HC risk notes, and optional source/video links:
+
+```json
+{
+  "name": "The Arbiter of Ash",
+  "aliases": ["Arbiter", "Arbiter of Ash", "Burning Monolith"],
+  "category": "Pinnacle",
+  "access": "Burning Monolith after collecting Crisis Fragments.",
+  "summary": "Primary endgame pinnacle boss with multi-phase arena pressure.",
+  "hc_difficulty": "Extreme",
+  "risk_score": 5,
+  "threats": ["Arena-wide patterns", "Expensive failed learning pulls"],
+  "tips": ["Do not make the first HC attempt blind.", "Prioritize survival over uptime."],
+  "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
+  "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Ash+boss+guide"
 }
 ```
 
