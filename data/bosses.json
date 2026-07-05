@@ -1,6 +1,6 @@
 {
   "source": "https://poe2db.tw/us/Waystones; https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/; https://www.pcgamer.com/games/rpg/path-of-exile-2s-biggest-expansion-ever-reworks-its-entire-post-campaign-grind-for-new-and-returning-players-alike/",
-  "generated_from": "PoE2DB Waystones and public endgame overview articles checked 2026-07-05; HC notes are curated from access method, boss role, map context, and known endgame mechanics. Video links are YouTube guide searches rather than endorsed single videos.",
+  "generated_from": "PoE2DB Waystones and public endgame overview articles checked 2026-07-05; HC notes are curated from access method, boss role, map context, and known endgame mechanics. Video links point to boss-relevant YouTube videos found 2026-07-05 rather than endorsed videos.",
   "bosses": [
     {
       "name": "The Arbiter of Ash",
@@ -21,7 +21,7 @@
         "Prioritize living through each phase over forcing damage; leave the arena if focus or flasks are compromised."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Ash+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=TMYtjqhk3nA"
     },
     {
       "name": "The Arbiter of Divinity",
@@ -42,7 +42,7 @@
         "Avoid experimenting with new gear, passives, or keybinds on the character that opens the attempt."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Divinity+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=2swpMpAiPC8"
     },
     {
       "name": "Count Geonor",
@@ -63,7 +63,7 @@
         "If adds or ground effects clutter the arena, reset position instead of tunneling damage."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Count+Geonor+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=i7qcoXtWROQ"
     },
     {
       "name": "Jamanra, the Abomination",
@@ -84,7 +84,7 @@
         "Do not chase damage during large arena patterns; move first, attack second."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Jamanra%2C+the+Abomination+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=9qU6yR9FLNk"
     },
     {
       "name": "Doryani, Royal Thaumaturge",
@@ -105,7 +105,7 @@
         "Avoid combining the attempt with extra atlas pressure; survival matters more than reward scaling."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Doryani%2C+Royal+Thaumaturge+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=OOpL0sy12CM"
     },
     {
       "name": "Precursor Separator",
@@ -126,7 +126,7 @@
         "If the boss creates constructs or hazards, kill or reposition around them before committing damage."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Precursor+Separator+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=yUgQAUCshD4"
     },
     {
       "name": "Precursor Refiner",
@@ -147,7 +147,7 @@
         "Skip risky waystone combinations until you have one clean kill recorded."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Precursor+Refiner+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=ozD21YeBkcU"
     },
     {
       "name": "Phyx, Sentinel of the Spark",
@@ -168,7 +168,7 @@
         "Keep damage windows short until you know which attacks can overlap."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Phyx%2C+Sentinel+of+the+Spark+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=v2j8WwhjFHo"
     },
     {
       "name": "Phya, Sentinel of the Cradle",
@@ -189,7 +189,7 @@
         "If cradle or construct hazards spawn, reposition first and resume damage after the floor is readable."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Phya%2C+Sentinel+of+the+Cradle+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=h5Kw0xb1f-0"
     },
     {
       "name": "The Aberration",
@@ -210,7 +210,7 @@
         "Keep enough burst control to handle adds or spawned hazards without losing boss visibility."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Aberration+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=eH9udeHVcCs"
     },
     {
       "name": "The Bodach",
@@ -231,7 +231,7 @@
         "Use short test damage windows until the boss's largest attack is identified."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Bodach+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=gIH3bQTY9T8"
     },
     {
       "name": "The Raven Trickster",
@@ -252,7 +252,7 @@
         "If the boss disappears or relocates, reset position rather than attacking blind."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Raven+Trickster+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=Mtqb6wnLmHM"
     },
     {
       "name": "Vessel of Kulemak",
@@ -273,7 +273,7 @@
         "Avoid reduced recovery and extra damage combinations until the fight is understood."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Vessel+of+Kulemak+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=_eA-a6jr1_8"
     },
     {
       "name": "Medved, the Fallen Seer",
@@ -294,7 +294,7 @@
         "If remnants make recovery or resistances unreliable, skip the boss on HC."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Medved%2C+the+Fallen+Seer+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=acsyRhulCrM"
     },
     {
       "name": "Vorana, Last to Fall",
@@ -315,7 +315,7 @@
         "If the boss gains too much damage or speed from remnants, abandon the attempt."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Vorana%2C+Last+to+Fall+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=IfrShXpxR-A"
     },
     {
       "name": "Uhtred, the Stardrinker",
@@ -336,7 +336,7 @@
         "Fight with enough room to leave star or temple effects before resuming damage."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Uhtred%2C+the+Stardrinker+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=NY4Mimz5Mug"
     },
     {
       "name": "Olroth, Origin of the Fall",
@@ -357,7 +357,7 @@
         "If the logbook route creates bad modifiers, save the character and skip the boss."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Olroth%2C+Origin+of+the+Fall+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=iJDfNqr9JEQ"
     },
     {
       "name": "The King in the Mists",
@@ -378,7 +378,7 @@
         "Avoid damage mods while learning the ritual phase order and arena tells."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+King+in+the+Mists+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=DAP8fQG2EKo"
     },
     {
       "name": "It That Was Tul",
@@ -399,7 +399,7 @@
         "Avoid extra monster speed until you can comfortably control breach density."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+It+That+Was+Tul+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=hqVqABsZx9I"
     },
     {
       "name": "It That Was Esh",
@@ -420,7 +420,7 @@
         "Move diagonally across rift pressure instead of backing straight into fresh spawns."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+It+That+Was+Esh+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=hqVqABsZx9I"
     },
     {
       "name": "Xesht, We That Are One",
@@ -441,7 +441,7 @@
         "Learn the major telegraphs before scaling breach difficulty for atlas points."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Xesht%2C+We+That+Are+One+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=BYD3GhAPSpE"
     },
     {
       "name": "Kosis",
@@ -462,7 +462,7 @@
         "Leave greed at the door on HC; Simulacrum rewards are not worth a weak recovery setup."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Kosis+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=2gwwHGL8qv0"
     },
     {
       "name": "Omniphobia",
@@ -483,7 +483,7 @@
         "Stop pushing waves if recovery, visibility, or focus starts to degrade."
       ],
       "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Omniphobia+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=z8regvAIpiQ"
     },
     {
       "name": "The Trialmaster",
@@ -504,7 +504,7 @@
         "Enter the boss with cooldowns ready and enough flask charges to survive a long phase."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Trialmaster+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=e1BGi4017MA"
     },
     {
       "name": "Zarokh, the Temporal",
@@ -525,7 +525,7 @@
         "Favor consistent movement and recovery over maximum damage during the final phase."
       ],
       "source_url": "https://poe2db.tw/us/Waystones",
-      "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+Zarokh%2C+the+Temporal+boss+guide"
+      "video_url": "https://www.youtube.com/watch?v=gxM9FiR83Ak"
     }
   ]
 }

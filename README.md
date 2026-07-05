@@ -91,7 +91,7 @@ Each boss entry includes access notes, HC risk notes, and optional source/video 
   "threats": ["Arena-wide patterns", "Expensive failed learning pulls"],
   "tips": ["Do not make the first HC attempt blind.", "Prioritize survival over uptime."],
   "source_url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-dawn-of-the-hunt-endgame/",
-  "video_url": "https://www.youtube.com/results?search_query=Path+of+Exile+2+The+Arbiter+of+Ash+boss+guide"
+  "video_url": "https://www.youtube.com/watch?v=TMYtjqhk3nA"
 }
 ```
 

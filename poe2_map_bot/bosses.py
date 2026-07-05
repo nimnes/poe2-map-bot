@@ -101,7 +101,7 @@ def format_boss_guide(guide: BossGuide) -> str:
     facts_text = "\n".join(f"- {item}" for item in facts)
     threats = "\n".join(f"- {item}" for item in guide.threats) or "- No specific threats recorded yet."
     tips = "\n".join(f"- {item}" for item in guide.tips) or "- Scout on a lower-risk character before committing HC."
-    video = f"\n\n*Video guide search*\n{escape_md(guide.video_url)}" if guide.video_url else ""
+    video = f"\n\n*Video guide*\n{escape_md(guide.video_url)}" if guide.video_url else ""
     source = f"\n\n*Source*\n{escape_md(guide.source_url)}" if guide.source_url else ""
     return (
         f"*{escape_md(guide.name)}*\n"
