@@ -122,6 +122,11 @@ def unique(values: Iterable[str]) -> list[str]:
     return result
 
 
+def difficulty_meter(risk_score: int, maximum: int = 5) -> str:
+    score = max(0, min(risk_score, maximum))
+    return "★" * score + "☆" * (maximum - score)
+
+
 def format_profile(profile: MapProfile) -> str:
     facts = []
     if profile.biome:
@@ -138,9 +143,13 @@ def format_profile(profile: MapProfile) -> str:
     threats = "\n".join(f"- {item}" for item in profile.threats) or "- No specific threats recorded yet."
     tips = "\n".join(f"- {item}" for item in profile.tips) or "- Treat unknown rares and boss phases cautiously."
     details = f"\n\n*Map facts*\n{escape_md(facts_text)}" if facts_text else ""
+    difficulty_line = (
+        f"HC difficulty: *{escape_md(profile.hc_difficulty)}*\n"
+        f"Risk: {difficulty_meter(profile.risk_score)} \\({profile.risk_score}/5\\)"
+    )
     return (
         f"*{escape_md(profile.name)}*\n"
-        f"HC difficulty: *{escape_md(profile.hc_difficulty)}* \\({profile.risk_score}/5\\)\n\n"
+        f"{difficulty_line}\n\n"
         f"{escape_md(profile.summary or 'No detailed summary recorded yet.')}"
         f"{details}\n\n"
         f"*Wiki notes*\n{escape_md(notes_text)}\n\n"

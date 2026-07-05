@@ -1,4 +1,4 @@
-from poe2_map_bot.maps import MapBook, MapProfile, normalize
+from poe2_map_bot.maps import MapBook, MapProfile, difficulty_meter, format_profile, normalize
 
 
 def book() -> MapBook:
@@ -59,3 +59,17 @@ def test_unknown_returns_suggestions():
     profile, suggestions = book().find("crp")
     assert profile is None
     assert "Crypt" in suggestions
+
+
+def test_difficulty_meter_clamps_score():
+    assert difficulty_meter(4) == "★★★★☆"
+    assert difficulty_meter(7) == "★★★★★"
+    assert difficulty_meter(-1) == "☆☆☆☆☆"
+
+
+def test_format_profile_includes_star_risk_line():
+    profile = book().profiles[0]
+
+    message = format_profile(profile)
+
+    assert "Risk: ★★★★☆ \\(4/5\\)" in message
